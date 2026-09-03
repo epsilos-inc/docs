@@ -1,35 +1,35 @@
 ---
-title: Paketler ve fiyatlandırma
-description: Epsilos e-ticaret ve hazır web sitesi paketlerinin kademeleri ve fiyatlandırma yaklaşımı.
+title: Packages and pricing
+description: The tiers and pricing approach of Epsilos e-commerce and ready website packages.
 sidebar:
   order: 1
 ---
 
-Epsilos abonelik modeliyle çalışır. İki ana paket ailesi vardır: **E-Ticaret
-Paketleri** ve **Hazır Web Sitesi Paketleri**. Ayrıca tamamen özgün tasarım için
-**Konsept Tasarım** hizmeti sunulur.
+Epsilos works on a subscription model. There are two main package families:
+**E-commerce packages** and **Ready website packages**. A **Concept Design** service
+is also offered for fully custom designs.
 
-## Kademeler neye göre değişir?
+## What varies between tiers
 
-- İzin verilen ürün sayısı
-- Depolama ve bant genişliği kotaları
-- Gelişmiş özellikler: varyant yönetimi, ETL / içe-dışa aktarma, API erişimi,
-  kupon sistemi vb.
-- Destek seviyesi
+- Allowed number of products
+- Storage and bandwidth quotas
+- Advanced features: variant management, ETL / import-export, API access, coupon
+  system, etc.
+- Support level
 
-## Güncel fiyatlar
+## Current prices
 
-Güncel paket içerikleri ve fiyatlar için:
+For current package contents and prices:
 
-- E-Ticaret paketleri: [epsilos.com](https://www.epsilos.com)
-- Hazır web sitesi paketleri: [epsilos.com](https://www.epsilos.com)
-- Kurumsal / özel ihtiyaçlar: satış ekibiyle görüşün (info@epsilos.com)
+- E-commerce packages: [epsilos.com](https://www.epsilos.com)
+- Ready website packages: [epsilos.com](https://www.epsilos.com)
+- Enterprise / custom needs: contact the sales team (info@epsilos.com)
 
-## Ücretsiz demo
+## Free demo
 
-Satın almadan önce ücretsiz bir demo hesabıyla tüm sistemi inceleyebilirsiniz.
-Her demo, Epsilos ekibinden kişiye özel bir sunum içerir.
-[Ücretsiz dene →](https://www.epsilos.com/ucretsiz-dene)
+You can explore the entire system with a free demo account before buying. Every demo
+includes a personalised presentation from the Epsilos team.
+[Try for free →](https://www.epsilos.com/ucretsiz-dene)
 
-<!-- TODO: paket kademelerinin adları, limitleri ve fiyat aralıkları netleşince
-     buraya tablo olarak eklenecek. Kaynak: docs/packages.md (iç repo). -->
+<!-- TODO: add tier names, limits and price ranges as a table once finalised.
+     Source: docs/packages.md (internal repo). -->

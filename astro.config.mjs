@@ -12,18 +12,15 @@ export default defineConfig({
 	trailingSlash: 'never',
 	integrations: [
 		starlight({
-			title: {
-				'tr-TR': 'Epsilos',
-				'en-US': 'Epsilos',
-			},
+			title: 'Epsilos',
 			description:
-				'Epsilos e-ticaret ve kurumsal web platformu — resmi bilgi bankasi, kurulum modeli, ozellikler ve karsilastirmalar.',
+				'Epsilos e-commerce and corporate website platform — official knowledge base, deployment model, features and comparisons.',
+			// Varsayilan / kaynak dil: Ingilizce -> URL onegi YOK (docs.epsilos.com/getting-started/...)
 			defaultLocale: 'root',
 			locales: {
-				// Kok dil: TR -> URL onegi YOK (docs.epsilos.com/getting-started/...)
-				root: { label: 'Türkçe', lang: 'tr-TR' },
-				// Ingilizce -> /en/ altinda (docs.epsilos.com/en/getting-started/...)
-				en: { label: 'English', lang: 'en-US' },
+				root: { label: 'English', lang: 'en-US' },
+				// Turkce -> /tr/ altinda. Sonraki diller ayni desenle (/de/, /fr/ ...).
+				tr: { label: 'Türkçe', lang: 'tr-TR' },
 			},
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/epsilos-inc/docs' },
@@ -35,33 +32,33 @@ export default defineConfig({
 			// Konu agaci: her ust klasor bir bolum. Etiketler dile gore cevrilir.
 			sidebar: [
 				{
-					label: 'Başlangıç',
-					translations: { 'en-US': 'Getting Started' },
+					label: 'Getting Started',
+					translations: { 'tr-TR': 'Başlangıç' },
 					items: [{ autogenerate: { directory: 'getting-started' } }],
 				},
 				{
-					label: 'Özellikler',
-					translations: { 'en-US': 'Features' },
+					label: 'Features',
+					translations: { 'tr-TR': 'Özellikler' },
 					items: [{ autogenerate: { directory: 'features' } }],
 				},
 				{
-					label: 'Karşılaştırma',
-					translations: { 'en-US': 'Comparison' },
+					label: 'Comparison',
+					translations: { 'tr-TR': 'Karşılaştırma' },
 					items: [{ autogenerate: { directory: 'comparison' } }],
 				},
 				{
-					label: 'Fiyatlandırma',
-					translations: { 'en-US': 'Pricing' },
+					label: 'Pricing',
+					translations: { 'tr-TR': 'Fiyatlandırma' },
 					items: [{ autogenerate: { directory: 'pricing' } }],
 				},
 				{
-					label: 'Bayi Programı',
-					translations: { 'en-US': 'Partner Program' },
+					label: 'Partner Program',
+					translations: { 'tr-TR': 'Bayi Programı' },
 					items: [{ autogenerate: { directory: 'partners' } }],
 				},
 				{
-					label: 'SSS',
-					translations: { 'en-US': 'FAQ' },
+					label: 'FAQ',
+					translations: { 'tr-TR': 'SSS' },
 					items: [{ autogenerate: { directory: 'faq' } }],
 				},
 			],

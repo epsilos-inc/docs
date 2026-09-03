@@ -1,55 +1,54 @@
 ---
-title: Özellikler — Genel bakış
-description: Epsilos e-ticaret ve kurumsal web sitesi paketlerinde bulunan tüm temel özelliklerin listesi.
+title: Features — overview
+description: A list of all the core features available in Epsilos e-commerce and corporate website packages.
 sidebar:
   order: 1
 ---
 
-Bu sayfa Epsilos'un temel özelliklerini özetler. Ayrıntılar için
-[E-Ticaret](/features/ecommerce) ve [Web Sitesi](/features/website) sayfalarına bakın.
+This page summarises Epsilos's core features. For details see
+[E-commerce](/features/ecommerce) and [Website](/features/website).
 
-## Tüm paketlerde ortak
+## Common to all packages
 
-- Görsel sürükle-bırak sayfa oluşturucu (35+ hazır modül)
-- 70+ mobil uyumlu tema, panelden anında geçiş
-- Blog modülü (yazılar, kategoriler, etiketler, yorumlar)
-- Çok dilli içerik desteği
-- SEO araçları: sayfa/ürün bazında meta başlık, açıklama, anahtar kelime, Open Graph
-- Google Analytics / Google Ads entegrasyonu
-- reCAPTCHA koruması
-- Özel kod ekleme alanları (head, `</head>` öncesi, `</body>` öncesi) — GTM, sohbet
-  widget'ları vb. için
-- SMTP e-posta (sipariş onayları, hesap e-postaları, e-posta şablonları)
-- İletişim formları
-- Tam self-servis yönetim paneli
+- Visual drag-and-drop page builder (35+ ready-made modules)
+- 70+ mobile-responsive themes, instant switching from the panel
+- Blog module (posts, categories, tags, comments)
+- Multi-language content
+- SEO tools: per page/product meta title, description, keywords, Open Graph
+- Google Analytics / Google Ads integration
+- reCAPTCHA protection
+- Custom code injection slots (head, before `</head>`, before `</body>`) — for GTM,
+  chat widgets, etc.
+- SMTP email (order confirmations, account emails, email templates)
+- Contact forms
+- Full self-service admin panel
 
-## E-ticaret paketlerine özel
+## E-commerce packages only
 
-- Ürün kataloğu, kategoriler, marka sayfaları
-- Sepet ve ödeme akışı
-- Ödeme altyapıları: Iyzico (taksitli), PayTR (iFrame & form), Mastercard, Visa,
-  American Express, Troy
-- Sipariş yönetimi, sipariş durumu takibi, kargo takibi
-- Üye hesap yönetimi (kayıt, giriş, profil, sipariş geçmişi)
-- Favoriler / istek listesi
-- Ürün yorumları ve puanlama
-- İndirim kuponu sistemi (yüzde veya sabit tutar, ürün bazlı)
-- Canlı döviz kuru desteği (TCMB beslemesi, 10 saniyede bir güncelleme)
+- Product catalog, categories, brand pages
+- Cart and checkout flow
+- Payment infrastructure: Iyzico (installments), PayTR (iFrame & form), Mastercard,
+  Visa, American Express, Troy
+- Order management, order status tracking, shipment tracking
+- Member account management (registration, login, profile, order history)
+- Favorites / wishlist
+- Product reviews and ratings
+- Discount coupon system (percentage or fixed amount, product-scoped)
+- Live exchange rate support (Turkish Central Bank feed, updates every 10 seconds)
 
-## Pakete göre değişen özellikler
+## Features that vary by tier
 
-Paket kademeleri şu noktalarda farklılaşır:
+Package tiers differ in:
 
-- İzin verilen ürün sayısı
-- Depolama / bant genişliği kotaları
-- Gelişmiş özellikler (varyant yönetimi, ETL/içe-dışa aktarma, API erişimi,
-  kuponlar vb.)
-- Destek seviyesi
+- Allowed number of products
+- Storage / bandwidth quotas
+- Advanced features (variant management, ETL / import-export, API access, coupons, etc.)
+- Support level
 
-Güncel paket ve fiyat bilgisi için [Fiyatlandırma](/pricing/packages) sayfasına bakın.
+See [Pricing](/pricing/packages) for current packages and prices.
 
-## İsteğe bağlı eklentiler
+## Optional add-ons
 
-Epsilos [tema ve eklenti pazarı](https://market.epsilos.com.tr) üzerinden ek modüller
-(otel rezervasyon, emlak ilan, QR menü, sepet terk hatırlatma, e-Fatura, ziyaretçi
-analitiği, mobil uygulama ve daha fazlası) sitenize eklenebilir.
+Additional modules — hotel booking, real-estate listings, QR menu, abandoned cart
+recovery, e-invoicing, visitor analytics, mobile app and more — can be added through
+the [Epsilos theme and add-on marketplace](https://market.epsilos.com).

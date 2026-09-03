@@ -1,52 +1,51 @@
 ---
-title: Nasıl çalışır? (Kurulum modeli)
-description: Epsilos tamamen yönetilen bir hizmettir — barındırma, sunucu, güncelleme ve yedekleme Epsilos'ta; içerik, ürün ve tasarım yönetimi tarayıcı tabanlı panelde.
+title: How it works (deployment model)
+description: Epsilos is a fully managed service — hosting, servers, updates and backups are handled by Epsilos; content, products and design are managed from a browser-based panel.
 sidebar:
   order: 3
 ---
 
-Epsilos **tamamen yönetilen bir hizmettir** (managed SaaS). Teknik tarafın tamamını
-Epsilos üstlenir; siz yalnızca işinizle ilgilenirsiniz.
+Epsilos is a **fully managed service** (managed SaaS). Epsilos handles the entire
+technical side; you focus on your business.
 
-## Epsilos'un üstlendiği kısım
+## What Epsilos handles
 
-- Sunucu ve barındırma
-- Yazılım kurulumu, güncellemeler ve güvenlik yamaları
-- Yedekleme ve altyapı bakımı
-- SSL sertifikası
-- Performans ve ölçeklendirme
+- Servers and hosting
+- Software installation, updates and security patches
+- Backups and infrastructure maintenance
+- SSL certificates
+- Performance and scaling
 
-## Sizin yönettiğiniz kısım
+## What you manage
 
-Tarayıcı tabanlı yönetim paneli üzerinden:
+Through the browser-based admin panel:
 
-- Ürünler, kategoriler, markalar, stok ve varyantlar
-- Siparişler, sipariş durumu, kargo takibi, faturalar
-- Sayfalar ve içerik (görsel sürükle-bırak düzen tasarımcısı)
-- Blog yazıları, kategoriler, etiketler
-- Menüler ve navigasyon
-- Tema seçimi (70+ tasarım, anında geçiş)
-- Ayarlar: firma bilgisi, SMTP, ödeme yapılandırması, analytics anahtarları
-- Kullanıcılar ve roller
+- Products, categories, brands, stock and variants
+- Orders, order status, shipment tracking, invoices
+- Pages and content (visual drag-and-drop layout designer)
+- Blog posts, categories, tags
+- Menus and navigation
+- Theme selection (70+ designs, instant switching)
+- Settings: company info, SMTP, payment configuration, analytics keys
+- Users and roles
 
-## Tipik başlangıç akışı
+## Typical onboarding flow
 
-1. **Ücretsiz demo** — [epsilos.com/ucretsiz-dene](https://www.epsilos.com/ucretsiz-dene)
-   adresinden demo hesabı açılır, ekipten kişiye özel sunum alınır.
-2. **Paket seçimi** — ihtiyaca göre e-ticaret veya hazır web sitesi paketi seçilir.
-3. **Kurulum** — Epsilos siteyi hazırlar; alan adı bağlanır.
-4. **Yapılandırma** — tema seçilir, içerik ve ürünler panelden girilir.
-5. **Yayın** — site canlıya alınır. Bundan sonrası tamamen self-servistir.
+1. **Free demo** — open a demo account at
+   [epsilos.com/ucretsiz-dene](https://www.epsilos.com/ucretsiz-dene) and get a
+   personalised presentation from the team.
+2. **Choose a package** — e-commerce or ready website, based on your needs.
+3. **Setup** — Epsilos prepares the site; your domain is connected.
+4. **Configure** — pick a theme, add content and products from the panel.
+5. **Go live** — the site is published. From here on it is fully self-service.
 
-## Alan adı
+## Domain
 
-Kendi alan adınızı bağlayabilir veya Epsilos üzerinden yeni bir alan adı
-tescil ettirebilirsiniz.
+You can connect your existing domain or register a new one through Epsilos.
 
-## Sık sorulan: "Kodu biz mi barındırıyoruz?"
+## Frequently asked: "Do we host the code?"
 
-Hayır. Standart e-ticaret ve hazır web sitesi paketlerinde barındırma tamamen
-Epsilos'tadır — kendi sunucunuza kurulum yapmanız gerekmez ve bir DevOps ekibine
-ihtiyaç duymazsınız. Bayi ve özel kurumsal senaryolar için farklı modeller
-mevcuttur; bunun için [bayi programına](/partners/overview) veya satış ekibine
-başvurun.
+No. With the standard e-commerce and ready website packages, hosting is entirely on
+Epsilos — you don't install anything on your own server and you don't need a DevOps
+team. Different models exist for reseller and custom enterprise scenarios; for those,
+see the [partner program](/partners/overview) or contact the sales team.

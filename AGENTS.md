@@ -5,8 +5,9 @@ markalı/karşılaştırma SEO'su. **Bu proje ana `smartweb` çözümünden bağ
 
 - **Plan / hedefler / deploy / Search Console:** ana repoda `smartweb/docs/docs-site.md`
 - Astro + Starlight statik site, **veritabanı yok**
-- İçerik: `src/content/docs/**` (TR kök) + `src/content/docs/en/**` (İngilizce)
-- Slug'lar İngilizce kanonik; görünen metin dile göre çevrilir; sidebar `astro.config.mjs`
+- İçerik: `src/content/docs/**` (İngilizce, kaynak dil, öneksiz) + `src/content/docs/tr/**` (Türkçe, `/tr/`)
+- Alt-yollar diller arası aynı; çevrilmemiş sayfa İngilizce'ye düşer; sidebar `astro.config.mjs`
+- Sonraki diller aynı desenle: `src/content/docs/<lang>/**` + `locales` girişi
 - İçerik kaynağı: `smartweb/docs/business-context.md` (Epsilos = "managed SaaS" konumlandırması)
 - Deploy hedefi: `DOCS_SITE` env var
 

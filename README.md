@@ -1,7 +1,9 @@
 # Epsilos Docs
 
 Epsilos'un resmi bilgi bankası / dokümantasyon sitesi. **Astro + Starlight** ile
-üretilen statik site; `docs.epsilos.com` (TR kök + `/en/` İngilizce) adresine deploy edilir.
+üretilen statik site; `docs.epsilos.com` adresine deploy edilir.
+**Varsayılan / kaynak dil: İngilizce (öneksiz kök)**, Türkçe `/tr/` altında,
+sonraki diller aynı desenle (`/de/`, `/fr/` ...).
 
 > Ayrıntılı plan, hedefler ve deploy notları: ana repoda `smartweb/docs/docs-site.md`.
 
@@ -22,10 +24,11 @@ DOCS_SITE=https://docs.epsilos.com npm run build
 
 ## Icerik
 
-- `src/content/docs/**` — TR sayfalar (kok dil, URL onegi yok)
-- `src/content/docs/en/**` — Ingilizce sayfalar (`/en/` altinda)
+- `src/content/docs/**` — Ingilizce sayfalar (kaynak dil, URL onegi yok)
+- `src/content/docs/tr/**` — Turkce sayfalar (`/tr/` altinda)
 - Bolumler: `getting-started/`, `features/`, `comparison/`, `pricing/`, `partners/`, `faq/`
-- Slug'lar Ingilizce kanonik; goruntulenen metin dile gore cevrilir
+- Alt-yollar diller arasi AYNI (Starlight ceviri eslemesi); metin dile gore cevrilir
+- Cevrilmemis sayfa Ingilizce icerige duser
 - Sidebar yapisi: `astro.config.mjs`
 
 ## Veritabani

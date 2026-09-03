@@ -1,52 +1,52 @@
 ---
-title: Sık sorulan sorular
-description: Epsilos hakkında en sık sorulan sorular — barındırma, alan adı, veri sahipliği, ödeme, destek ve daha fazlası.
+title: Frequently asked questions
+description: The most common questions about Epsilos — hosting, domains, data ownership, payments, support and more.
 sidebar:
   order: 1
 ---
 
-## Epsilos bir SaaS platformu mu?
+## Is Epsilos a SaaS platform?
 
-Evet. Standart e-ticaret ve hazır web sitesi paketlerinde Epsilos tamamen
-yönetilen bir hizmettir: barındırma, sunucu, güncelleme ve yedekleme Epsilos'ta;
-siz mağazanızı ve içeriğinizi tarayıcı tabanlı panelden yönetirsiniz.
+Yes. With the standard e-commerce and ready website packages, Epsilos is a fully
+managed service: hosting, servers, updates and backups are on Epsilos; you manage
+your store and content from a browser-based panel.
 
-## Kendi sunucuma kurabilir miyim?
+## Can I install it on my own server?
 
-Standart paketler kendi sunucunuza kurulum içermez; barındırmayı Epsilos yapar.
-Kurumsal ve bayi senaryoları için farklı modeller mevcuttur — satış ekibine
-danışın.
+The standard packages do not include installation on your own server; Epsilos handles
+hosting. Different models exist for enterprise and reseller scenarios — contact the
+sales team.
 
-## Kendi alan adımı kullanabilir miyim?
+## Can I use my own domain?
 
-Evet. Mevcut alan adınızı bağlayabilir veya Epsilos üzerinden yeni bir alan adı
-tescil ettirebilirsiniz.
+Yes. You can connect your existing domain or register a new one through Epsilos.
 
-## Verilerim bana mı ait?
+## Do I own my data?
 
-Evet. İçeriğiniz ve verileriniz size aittir ve sözleşme koşulları çerçevesinde
-dışa aktarılabilir.
+Yes. Your content and data are yours and can be exported under the terms of your
+contract.
 
-## Hangi ödeme yöntemlerini destekliyor?
+## Which payment methods are supported?
 
-Iyzico (taksitli), PayTR (iFrame ve form); kart şemaları Mastercard, Visa,
-American Express ve Troy.
+Iyzico (installments), PayTR (iFrame and form); card schemes Mastercard, Visa,
+American Express and Troy.
 
-## Teknik bilgi gerekiyor mu?
+## Do I need technical knowledge?
 
-Hayır. Tüm yönetim görsel bir panelden yapılır. Sayfalar sürükle-bırak tasarımcı
-ile kurulur, kod yazmak gerekmez.
+No. All management is done from a visual panel. Pages are built with a drag-and-drop
+designer — no coding required.
 
-## Temayı sonradan değiştirebilir miyim?
+## Can I change the theme later?
 
-Evet. Aktif tema panelden anında değiştirilir; içeriğiniz ve verileriniz etkilenmez.
+Yes. The active theme is switched instantly from the panel; your content and data are
+not affected.
 
-## Deneyebilir miyim?
+## Can I try it first?
 
-Evet. Ücretsiz bir demo hesabı açabilir ve Epsilos ekibinden kişiye özel bir sunum
-alabilirsiniz: [epsilos.com/ucretsiz-dene](https://www.epsilos.com/ucretsiz-dene).
+Yes. You can open a free demo account and get a personalised presentation from the
+Epsilos team: [epsilos.com/ucretsiz-dene](https://www.epsilos.com/ucretsiz-dene).
 
-## Destek nasıl sağlanıyor?
+## How is support provided?
 
-E-posta 7/24 (support@epsilos.com), WhatsApp 09:30–18:00 (0533 368 15 35).
-Yanıt süresi 12 saat içindedir.
+Email 24/7 (support@epsilos.com), WhatsApp 09:30–18:00 (0533 368 15 35). Response
+time is within 12 hours.

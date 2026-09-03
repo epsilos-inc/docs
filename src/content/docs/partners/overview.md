@@ -1,29 +1,30 @@
 ---
-title: Bayi ve tasarımcı programları
-description: Epsilos bayilik başvurusu ve Epsilos tasarımcısı olma programları — Epsilos paketlerini satmak veya tema üretmek isteyenler için.
+title: Reseller and designer programs
+description: The Epsilos reseller application and Epsilos designer programs — for those who want to sell Epsilos packages or produce themes and add-ons.
 sidebar:
   order: 1
 ---
 
-Epsilos, ekosisteminde iş yapmak isteyenler için iki ortaklık programı sunar.
+Epsilos offers two partnership programs for people who want to do business in its
+ecosystem.
 
-## Bayilik Başvurusu (Reseller)
+## Reseller application
 
-Yetkili Epsilos bayisi olarak Epsilos paketlerini kendi müşterilerinize satabilirsiniz.
-Bayiler kendi müşteri portföylerini bir bayi paneli üzerinden yönetir.
+As an authorised Epsilos reseller you can sell Epsilos packages to your own clients.
+Resellers manage their client portfolio through a reseller panel.
 
-- Kendi müşterilerinize paket satışı
-- Bayi paneli üzerinden lisans ve müşteri yönetimi
-- Çok dilli panel desteği
+- Sell packages to your own clients
+- Manage licences and clients through the reseller panel
+- Multi-language panel support
 
-Başvuru: [epsilos.com](https://www.epsilos.com) üzerinden "Bayilik Başvurusu".
+Apply via "Bayilik Başvurusu" on [epsilos.com](https://www.epsilos.com).
 
-## Epsilos Tasarımcısı Ol
+## Become an Epsilos designer
 
-Epsilos tasarımcı ağına katılıp müşteriler için özel tema ve konsept tasarımlar
-üretebilirsiniz. Ayrıca [Epsilos tema ve eklenti pazarında](https://market.epsilos.com.tr)
-tema ve eklenti satışa sunabilirsiniz.
+Join the Epsilos designer network and produce custom themes and concept designs for
+clients. You can also sell themes and add-ons on the
+[Epsilos theme and add-on marketplace](https://market.epsilos.com).
 
-Başvuru: [epsilos.com](https://www.epsilos.com) üzerinden "Epsilos Tasarımcısı Ol".
+Apply via "Epsilos Tasarımcısı Ol" on [epsilos.com](https://www.epsilos.com).
 
-<!-- TODO: komisyon oranları, ödeme koşulları ve başvuru kriterleri netleşince eklenecek. -->
+<!-- TODO: add commission rates, payment terms and application criteria once finalised. -->

@@ -1,58 +1,46 @@
 ---
-title: Epsilos nedir?
-description: Epsilos, işletmelere yönetilen e-ticaret siteleri ve kurumsal web siteleri sunan bir platformdur. Barındırma ve altyapı Epsilos'ta, yönetim tarayıcı tabanlı panelde.
+title: What is Epsilos?
+description: Epsilos is a platform that provides businesses with managed e-commerce sites and corporate websites. Hosting and infrastructure are handled by Epsilos; management happens in a browser-based admin panel.
 sidebar:
   order: 1
 ---
 
-Epsilos ([epsilos.com](https://www.epsilos.com)), her ölçekten işletmeye **yönetilen
-e-ticaret siteleri** ve **kurumsal / tanıtım web siteleri** sunan bir platformdur.
-Müşteri bir pakete abone olur, kullanıma hazır bir çevrimiçi varlık elde eder ve
-her şeyi görsel bir yönetim panelinden yönetir — teknik bilgi gerekmez.
+Epsilos ([epsilos.com](https://www.epsilos.com)) provides businesses of all sizes
+with **managed e-commerce sites** and **corporate / showcase websites**. A client
+subscribes to a package, gets a ready-to-use online presence, and manages
+everything through a visual admin panel — no technical knowledge required.
 
-Türkiye pazarında Wix, Ticimax veya İdeasoft ile aynı kategoridedir: altyapıyı
-Epsilos barındırır ve işletir, müşteri mağazasını veya sitesini tarayıcı üzerinden
-yapılandırır.
+In the Turkish market it sits in the same category as Wix, Ticimax or İdeasoft:
+Epsilos hosts and operates the infrastructure; the client configures their store
+or website through the browser.
 
-## İki ürün hattı, tek platform
+## Two product lines, one platform
 
-### E-Ticaret Paketleri
-Ürünlerini çevrimiçi satmak isteyen işletmeler için. Ürün kataloğu, sepet ve ödeme
-akışı, sipariş yönetimi, kargo takibi, üye hesapları, favoriler, ürün yorumları,
-indirim kuponları, canlı döviz kuru (TCMB), çok dilli destek ve blog modülü içerir.
-Ödeme altyapısı: Iyzico (taksitli), PayTR, Mastercard, Visa, American Express, Troy.
+### E-commerce packages
+For businesses that want to sell products online. Includes product catalog, cart
+and checkout, order management, shipment tracking, member accounts, favorites,
+product reviews, discount coupons, live exchange rates (Turkish Central Bank),
+multi-language support and a blog module. Payments: Iyzico (installments), PayTR,
+Mastercard, Visa, American Express, Troy.
 
-### Hazır Web Sitesi Paketleri
-E-ticaret olmadan kurumsal veya tanıtım sitesi isteyen işletmeler için. Görsel
-sayfa oluşturucu, blog, iletişim formları, çok dilli destek, SEO araçları ve
-70+ tema arasından seçim.
+### Ready website packages
+For businesses that need a corporate or showcase website without a store. Visual
+page builder, blog, contact forms, multi-language support, SEO tools and a choice
+of 70+ themes.
 
-### Konsept Tasarım
-Tamamen özgün bir tasarım isteyen müşteriler için Epsilos, markaya özel bir tema
-üretir ve aynı platformun üzerinde teslim eder.
+### Concept design
+For clients who need a fully custom design, Epsilos builds a brand-specific theme
+and delivers it on top of the same platform.
 
-## Öne çıkan özellik: Görsel sayfa oluşturucu
+## Signature feature: the visual page builder
 
-Epsilos'un imza özelliği, doğrudan canlı site görünümü üzerinde çalışan bir
-**sürükle-bırak düzen tasarımcısıdır**. Sayfalar 4 seviyeli iç içe bir ızgarayla
-kurulur: **Izgara → Satır → Kolon → Modül**. 35+ hazır modül (ürün kaydırıcıları,
-hero banner'lar, galeriler, dinamik menüler, fiyat tabloları, geri sayım sayaçları,
-iletişim formları, Google Haritalar, sekme panelleri ve daha fazlası) mevcuttur.
-Her modülün canlı tuval üzerinde bir dişli simgesiyle açılan kendi ayar paneli vardır.
-Kod yazmak gerekmez.
+Epsilos's signature feature is a **drag-and-drop layout designer** that works
+directly on the live site view. Pages are built with a 4-level nested grid:
+**Grid → Row → Column → Module**, with 35+ ready-made modules. Each module has its
+own settings panel opened via a gear icon on the live canvas. No coding required.
 
-## Temalar
+## Next steps
 
-- **Web Sitesi Temaları:** 37+ kurumsal ve tanıtım teması (kurumsal, mimarlık,
-  sağlık, hukuk, restoran, teknoloji, eğitim ve daha fazlası).
-- **E-Ticaret Temaları:** 27 çevrimiçi mağazaya özel tema (moda, elektronik, ev,
-  gıda, aksesuar, genel perakende).
-
-Tüm temalar mobil uyumludur. Aktif tema, içeriği veya veriyi etkilemeden panelden
-değiştirilir.
-
-## Sonraki adımlar
-
-- [Kimler için?](/getting-started/who-is-it-for)
-- [Nasıl çalışır? (kurulum modeli)](/getting-started/how-it-works)
-- [Özelliklerin tam listesi](/features/overview)
+- [Who is it for?](/getting-started/who-is-it-for)
+- [How it works](/getting-started/how-it-works)
+- [Full feature list](/features/overview)

@@ -1,51 +1,51 @@
 ---
 title: Epsilos vs İkas
-description: Epsilos ve İkas'ın yönetilen e-ticaret platformu olarak karşılaştırması — ortak noktalar, farklar ve Epsilos'un hangi durumlarda daha uygun olduğu.
+description: A comparison of Epsilos and İkas as managed e-commerce platforms — what they share, where they differ, and when Epsilos is the better fit.
 sidebar:
   order: 1
 ---
 
-Hem Epsilos hem İkas, Türkiye pazarında yönetilen (SaaS) e-ticaret platformlarıdır:
-barındırmayı sağlayıcı üstlenir, işletme mağazasını tarayıcı üzerinden yönetir.
-Aşağıdaki karşılaştırma Epsilos'un bakış açısıyla hazırlanmıştır; kendi ihtiyacınıza
-göre her iki platformu da bir demoyla değerlendirmenizi öneririz.
+Both Epsilos and İkas are managed (SaaS) e-commerce platforms in the Turkish market:
+the provider runs the hosting, and the business manages its store through the
+browser. The comparison below is written from Epsilos's point of view; we recommend
+evaluating both platforms with a demo for your own needs.
 
-## Ortak noktalar
+## What they share
 
-- Yönetilen barındırma, sunucu ve güncelleme yükü yok
-- Görsel yönetim paneli, teknik bilgi gerektirmeyen kullanım
-- Yerel ödeme altyapıları (Iyzico, PayTR) ve taksitli ödeme
-- Blog, SEO araçları, çoklu dil, kupon sistemi
-- Hazır temalar
+- Managed hosting, no server or update burden
+- Visual admin panel, usable without technical knowledge
+- Local payment infrastructure (Iyzico, PayTR) and installment payments
+- Blog, SEO tools, multi-language, coupon system
+- Ready-made themes
 
-## Epsilos'un farklılaştığı noktalar
+## Where Epsilos differs
 
-| Konu | Epsilos |
+| Area | Epsilos |
 | --- | --- |
-| Sayfa oluşturma | Canlı site üzerinde çalışan 4 seviyeli (Izgara→Satır→Kolon→Modül) sürükle-bırak tasarımcı, 35+ modül |
-| Tek platform, iki ürün | Aynı panelden hem e-ticaret hem kurumsal / tanıtım sitesi |
-| Tema kütüphanesi | 70+ tema (37 kurumsal + 27 e-ticaret), anında geçiş |
-| Özel tasarım | Konsept Tasarım hizmetiyle markaya özel tema, aynı platform üzerinde |
-| Eklenti pazarı | Otel rezervasyon, emlak ilan, QR menü, e-Fatura, ziyaretçi analitiği, mobil uygulama gibi dikey modüller |
-| Bayi & tasarımcı programı | Epsilos paketlerini kendi müşterilerine satan bayiler ve tema üreten tasarımcılar için ortaklık programları |
-| İçerik sahipliği | Sözleşme sonunda içerik ve veri dışa aktarılabilir |
+| Page building | A 4-level (Grid→Row→Column→Module) drag-and-drop designer that works on the live site, with 35+ modules |
+| One platform, two products | Both e-commerce and corporate / showcase sites from the same panel |
+| Theme library | 70+ themes (37 corporate + 27 e-commerce), instant switching |
+| Custom design | Concept Design service builds a brand-specific theme on the same platform |
+| Add-on marketplace | Vertical modules: hotel booking, real-estate listings, QR menu, e-invoicing, visitor analytics, mobile app |
+| Reseller & designer program | Partnership programs for resellers selling Epsilos packages to their own clients, and designers producing themes |
+| Content ownership | Content and data can be exported at the end of the contract |
 
-## Ne zaman Epsilos'u tercih etmelisiniz?
+## When to choose Epsilos
 
-- Hem satış sitesi hem kurumsal siteyi **tek panelden** yönetmek istiyorsanız
-- **Görsel, canlı sayfa tasarımı** üzerinde çok çalışacaksanız
-- Sektörünüze özel bir modüle (otel, emlak, restoran vb.) ihtiyacınız varsa
-- Bir **bayi veya tasarımcı** olarak Epsilos ekosisteminde iş yapmak istiyorsanız
+- You want to manage both a store and a corporate site **from one panel**
+- You will work heavily on **visual, live page design**
+- You need a **vertical module** (hotel, real estate, restaurant, etc.)
+- You want to do business in the Epsilos ecosystem as a **reseller or designer**
 
-## Ne zaman başka bir çözüm daha uygun olabilir?
+## When another solution may fit better
 
-- Yalnızca çok büyük ölçekli, standart dışı bir operasyonunuz varsa ve tamamen özel
-  bir altyapı istiyorsanız
+- You run a very large-scale, non-standard operation and want a fully custom
+  infrastructure
 
-## Kendiniz karşılaştırın
+## Compare for yourself
 
-[Ücretsiz Epsilos demosu açın](https://www.epsilos.com/ucretsiz-dene) ve paneli
-kendi ürünlerinizle deneyin.
+[Open a free Epsilos demo](https://www.epsilos.com/ucretsiz-dene) and try the panel
+with your own products.
 
-> Bu sayfa Epsilos tarafından hazırlanmıştır ve İkas ile resmi bir bağlantısı yoktur.
-> Marka adları ilgili sahiplerine aittir.
+> This page is produced by Epsilos and has no official affiliation with İkas.
+> Brand names belong to their respective owners.

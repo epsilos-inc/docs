@@ -1,49 +1,47 @@
 ---
-title: E-Ticaret özellikleri
-description: Epsilos e-ticaret paketlerinin ürün yönetimi, ödeme, sipariş, kargo ve müşteri özellikleri.
+title: E-commerce features
+description: Product management, payments, orders, shipping and customer features of Epsilos e-commerce packages.
 sidebar:
   order: 2
 ---
 
-## Ürün ve katalog
+## Products and catalog
 
-- Ürün kataloğu, kategori ağacı, marka sayfaları
-- Varyant yönetimi (beden, renk vb. varyant tipleri ve değerleri)
-- Stok takibi
-- Ürün görselleri ve galerileri
-- ETL / içe-dışa aktarma (pakete göre)
+- Product catalog, category tree, brand pages
+- Variant management (size, color, etc. variant types and values)
+- Stock tracking
+- Product images and galleries
+- ETL / import-export (by tier)
 
-## Ödeme
+## Payments
 
-- Iyzico (taksitli ödeme)
-- PayTR (iFrame ve form)
-- Kart şemaları: Mastercard, Visa, American Express, Troy
-- Canlı döviz kuru (TCMB beslemesi) ile çoklu para birimi
+- Iyzico (installment payments)
+- PayTR (iFrame and form)
+- Card schemes: Mastercard, Visa, American Express, Troy
+- Multi-currency via live exchange rates (Turkish Central Bank feed)
 
-Kart ödemelerinde stok yalnızca ödeme sağlayıcısından başarı bildirimi geldiğinde
-düşülür.
+For card payments, stock is only deducted when the payment provider confirms success.
 
-## Sipariş ve kargo
+## Orders and shipping
 
-- Sipariş listesi ve durum güncellemeleri
-- Fatura oluşturma
-- Kargo / gönderi takibi
-- Sipariş durumu bildirimleri (e-posta)
+- Order list and status updates
+- Invoice generation
+- Shipment / cargo tracking
+- Order status notifications (email)
 
-## Müşteri
+## Customers
 
-- Üye kaydı, giriş, profil, sipariş geçmişi
-- Favoriler / istek listesi
-- Ürün yorumları ve puanlama
+- Member registration, login, profile, order history
+- Favorites / wishlist
+- Product reviews and ratings
 
-## Pazarlama
+## Marketing
 
-- İndirim kuponu sistemi (yüzde veya sabit tutar, ürün bazlı)
-- SEO alanları (ürün bazında meta ve Open Graph)
-- Google Analytics / Ads entegrasyonu
+- Discount coupon system (percentage or fixed amount, product-scoped)
+- SEO fields (per-product meta and Open Graph)
+- Google Analytics / Ads integration
 
-## İsteğe bağlı
+## Optional
 
-Sepet terk hatırlatma, e-Fatura (Uyumsoft), pazaryeri entegrasyonu (Fleksup),
-mobil uygulama gibi eklentiler [pazar](https://market.epsilos.com.tr) üzerinden
-etkinleştirilebilir.
+Add-ons such as abandoned cart recovery, e-invoicing, marketplace integration and a
+mobile app can be enabled through the [marketplace](https://market.epsilos.com).

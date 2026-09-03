@@ -1,35 +1,35 @@
 ---
-title: Kimler için?
-description: Epsilos, yönetilen bir çözüm isteyen teknik olmayan işletme sahipleri için tasarlanmıştır — perakende, moda, elektronik, gıda, hizmet ve kurumsal tanıtım.
+title: Who is it for?
+description: Epsilos is built for non-technical business owners who want a managed solution — retail, fashion, electronics, food, services and corporate showcase sites.
 sidebar:
   order: 2
 ---
 
-Epsilos, **altyapıyla uğraşmadan** çevrimiçi satış yapmak veya kurumsal bir web
-sitesi yayınlamak isteyen işletmeler için tasarlanmıştır.
+Epsilos is built for businesses that want to sell online or publish a corporate
+website **without managing infrastructure**.
 
-## İyi bir eşleşme
+## A good fit
 
-- **Teknik olmayan işletme sahipleri** — sunucu, hosting veya yazılım güncellemesi
-  yönetmek istemeyen; her şeyi tek panelden çözmek isteyen.
-- **KOBİ'ler** — küçük dükkânlar, butikler, yerel hizmet işletmeleri, orta ölçekli
-  perakende.
-- **Sektörler:** perakende, moda, elektronik, gıda, mobilya, inşaat, danışmanlık,
-  portföy / tanıtım siteleri.
-- **Hızlı başlamak isteyenler** — hazır temalar ve modüllerle günler içinde yayında.
-- **Türkiye'de satış yapanlar** — yerel ödeme altyapısı (PayTR, Iyzico taksit),
-  TCMB döviz kuru, Türkçe arayüz ve destek.
+- **Non-technical business owners** who don't want to manage servers, hosting or
+  software updates and prefer to run everything from one panel.
+- **Small and medium businesses** — small shops, boutiques, local service
+  businesses, mid-size retail.
+- **Verticals:** retail, fashion, electronics, food, furniture, construction,
+  consulting, portfolio / showcase sites.
+- **Teams that want to launch fast** — ready themes and modules, live in days.
+- **Businesses selling in Turkey** — local payment infrastructure (PayTR, Iyzico
+  installments), Turkish Central Bank exchange rates, Turkish interface and support.
 
-## Muhtemelen iyi bir eşleşme değil
+## Probably not a fit
 
-- **Kendi sunucunuzda tam kontrol** isteyen ve DevOps ekibi olan kurumlar
-  (Epsilos yönetilen bir hizmettir; barındırmayı Epsilos yapar).
-- **Çok özel, standart dışı iş akışları** olan büyük ölçekli operasyonlar —
-  bu durumda önce [Konsept Tasarım](/getting-started/what-is-epsilos) veya
-  bir demo görüşmesi ile ihtiyaç netleştirilmelidir.
+- Organizations that need **full control on their own servers** and have a DevOps
+  team (Epsilos is a managed service; Epsilos runs the hosting).
+- Large-scale operations with **highly custom, non-standard workflows** — start with
+  [Concept Design](/getting-started/what-is-epsilos) or a demo call to scope the
+  requirements first.
 
-## Emin değil misiniz?
+## Not sure?
 
-Ücretsiz bir demo hesabı açıp sistemi satın almadan inceleyebilirsiniz. Her demo,
-Epsilos ekibinden kişiye özel bir sunum içerir.
-[Ücretsiz dene →](https://www.epsilos.com/ucretsiz-dene)
+You can open a free demo account and explore the system before buying. Every demo
+includes a personalised presentation from the Epsilos team.
+[Try for free →](https://www.epsilos.com/ucretsiz-dene)
