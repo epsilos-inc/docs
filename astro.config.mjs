@@ -13,8 +13,8 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: {
-				'tr-TR': 'Epsilos Dokümantasyon',
-				'en-US': 'Epsilos Documentation',
+				'tr-TR': 'Epsilos',
+				'en-US': 'Epsilos',
 			},
 			description:
 				'Epsilos e-ticaret ve kurumsal web platformu — resmi bilgi bankasi, kurulum modeli, ozellikler ve karsilastirmalar.',
