@@ -1,60 +1,66 @@
 ---
 title: Epsilos ve alternatifleri
-description: Epsilos'un diğer e-ticaret ve web sitesi platformlarıyla (İkas, Shopify, Ticimax, İdeasoft, Wix) karşılaştırması ve işletmenize uygun olanı seçme rehberi.
+description: Epsilos'un diğer e-ticaret ve web sitesi platformlarıyla (Shopify, Wix, WooCommerce, İkas, İdeasoft) karşılaştırması ve işletmenize uygun olanı seçme rehberi.
 sidebar:
   order: 1
 ---
 
-Çevrimiçi mağaza veya kurumsal site yürütmenin birden fazla iyi yolu var. Bu sayfa,
-Epsilos'un yaygın alternatifler arasında nereye oturduğunu anlatır ve karar vermeniz
-için bir kontrol listesi verir. Kısa listenizi bir demoyla denemenizi öneririz —
-doğru platform ürününüze, pazarınıza ve ekibinize göre değişir.
+Epsilos, çevrimiçi mağaza veya kurumsal site yürütmenin birden fazla iyi yolundan
+biridir. Bu sayfa, Epsilos'un yaygın alternatifler arasında nereye oturduğunu
+anlatır ve karar vermeniz için bir kontrol listesi verir. Doğru platform
+ürününüze, ekibinize ve nereye sattığınıza göre değişir — karar vermeden önce kısa
+listenizi bir demoyla deneyin.
 
-## Genel görünüm
+## Küresel platformlar
 
 | Platform | Kısaca |
 | --- | --- |
-| **Epsilos** | Hem e-ticaret **hem de** kurumsal / tanıtım siteleri için Türk yönetilen platform; canlı sürükle-bırak sayfa tasarımcısı, 70+ tema, yerel ödeme desteği ve bayi/tasarımcı ekosistemi. |
-| **İkas** | Modern bir yönetim paneli ve büyüyen özellik setiyle, çevrimiçi perakendeye odaklı Türk yönetilen e-ticaret platformu. |
-| **Ticimax / İdeasoft** | Yerel pazarda uzun geçmişi olan, derin perakende özellik setine sahip köklü Türk e-ticaret platformları. |
-| **Shopify** | En büyük üçüncü taraf uygulama ekosistemine sahip küresel e-ticaret platformu; yurt dışına satış yapan işletmeler için en güçlüsü. |
-| **Wix** | E-ticaret eklentileri olan küresel web sitesi kurucusu; içerik ve pazarlama siteleri için güçlü, büyük kataloglarda daha hafif. |
+| **Shopify** | En büyük üçüncü taraf uygulama ekosistemine sahip küresel e-ticaret lideri. Yurt dışına satış yapan veya çok sayıda niş entegrasyon gereken işletmeler için en güçlüsü. Yönetilen/barındırılan; kendi ödeme altyapısını kullanmadığınızda abonelik + işlem komisyonu. |
+| **Wix** | E-ticaret eklentileri olan küresel web sitesi kurucusu. İçerik ve pazarlama siteleri için güçlü; büyük veya karmaşık kataloglarda daha hafif. Yönetilen/barındırılan. |
+| **WooCommerce** | WordPress için açık kaynaklı eklenti. Maksimum esneklik ve platform kilidi yok, ancak **kendi sunucunuzda** — barındırma, güncelleme, güvenlik ve yedeklemeyi siz (veya bir ajans) yönetirsiniz. |
 
-Bunların hepsi yönetilen/barındırılan çözümlerdir — altyapıyı sağlayıcı işletir,
-siz tarayıcı panelinden çalışırsınız.
+## Bölgesel platformlar
 
-## Epsilos'un güçlü olduğu durumlar
+| Platform | Kısaca |
+| --- | --- |
+| **İkas** | Modern bir yönetim paneli ve büyüyen özellik setiyle, çevrimiçi perakendeye odaklı yönetilen e-ticaret platformu. |
+| **İdeasoft** | Derin perakende özellik setine ve uzun bir geçmişe sahip köklü e-ticaret platformu. |
+
+## Epsilos nereye oturur
 
 - **Mağaza *ve* kurumsal site için tek platform** — aynı panel, aynı temalar,
-  ikinci bir sistem yok.
-- **Görsel, canlı sayfa tasarımı** — sabit bir şablonla sınırlı kalmadan, doğrudan
+  yürütülecek ikinci bir sistem yok.
+- **Görsel, canlı sayfa tasarımı** — sabit bir şablonu doldurmak yerine, doğrudan
   site üzerinde 35+ modülle sürükle-bırak.
-- **Türkiye pazarına uyum** — PayTR ve Iyzico taksit, TCMB döviz kuru, Türkçe
-  arayüz ve destek.
+- **Tamamen yönetilen** — barındırma, güncelleme, güvenlik ve yedekleme sizin için
+  yapılır (WooCommerce gibi kendi-sunucunuzda bir kurulumun aksine).
 - **Sektörel modüller** — otel rezervasyon, emlak ilan, QR menü, e-Fatura ve
   daha fazlası [eklenti pazarı](https://market.epsilos.com.tr) üzerinden.
+- **Ödeme esnekliği** — standart kart şemalarının yanında, sattığınız pazarlara
+  göre bölgesel ödeme altyapıları ve taksit seçenekleri + canlı döviz kuruyla
+  fiyatlandırma.
 - **Bayi & tasarımcı programları** — Epsilos üzerine iş kurma imkânı.
 
 ## Başka bir platformun daha uygun olabileceği durumlar
 
-- **Yoğun biçimde yurt dışına, çok para birimi ve dilde, niş entegrasyonlarla
-  satış** — Shopify'ın uygulama ekosistemiyle yarışmak zor.
-- **Ticareti çok az olan, saf içerik/pazarlama sitesi** — daha hafif bir site
+- **Yoğun biçimde yurt dışına**, çok para birimi ve dilde, niş üçüncü taraf
+  entegrasyonlarla satış — Shopify'ın uygulama ekosistemiyle yarışmak zor.
+- **Kendi sunucunuzda barındırmak istiyorsanız** ve geliştirme kaynağınız varsa —
+  WooCommerce yığının tam kontrolünü verir.
+- **Ticareti çok az olan, saf içerik veya pazarlama sitesi** — daha hafif bir site
   kurucu yeterli olabilir.
-- **Başka bir Türk platformunda zaten büyük, derin özelleştirilmiş bir mağaza
-  yürütüyorsanız** ve taşıma maliyeti faydadan fazlaysa.
 
 ## Nasıl seçilir — kontrol listesi
 
 1. **Kapsam:** sadece mağaza mı, sadece site mi, ikisi birden mi?
-2. **Nereye satış:** çoğunlukla Türkiye mi, çoğunlukla yurt dışı mı?
+2. **Nereye satış:** tek ülke mi, çok pazar ve para birimi mi?
 3. **Tasarım kontrolü:** şablon bazlı mı, elle görsel düzen mi?
-4. **Katalog boyutu ve karmaşıklığı:** basit mi, çok varyantlı / toplu içe aktarma mı?
-5. **Özel ihtiyaç:** sektörel bir modül (otel, emlak, restoran)?
-6. **Ekip:** kim bakacak, ne kadar teknik?
+4. **Katalog:** basit mi, çok varyantlı ve toplu içe aktarma mı?
+5. **Barındırma:** tamamen yönetilen mi, kendi ekibinizle kendi sunucunuzda mı?
+6. **Özel ihtiyaç:** sektörel bir modül (otel, emlak, restoran)?
 7. **Toplam maliyet:** abonelik + ödeme komisyonları + eklentiler.
 
-Sonra iki-üç aday belirleyin ve her birini kendi ürünlerinizle demolayın.
+İki-üç aday belirleyin, her birini kendi ürünlerinizle demolayın.
 
 ## Epsilos'u deneyin
 
