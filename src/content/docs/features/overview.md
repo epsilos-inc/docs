@@ -6,7 +6,8 @@ sidebar:
 ---
 
 This page summarises Epsilos's core features. For details see
-[E-commerce](/features/ecommerce) and [Website](/features/website).
+[E-commerce](/features/ecommerce), [Website](/features/website) and
+[Performance](/features/performance).
 
 ## Common to all packages
 

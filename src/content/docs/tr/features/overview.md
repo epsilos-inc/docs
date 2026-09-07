@@ -6,7 +6,8 @@ sidebar:
 ---
 
 Bu sayfa Epsilos'un temel özelliklerini özetler. Ayrıntılar için
-[E-Ticaret](/tr/features/ecommerce) ve [Web Sitesi](/tr/features/website) sayfalarına bakın.
+[E-Ticaret](/tr/features/ecommerce), [Web Sitesi](/tr/features/website) ve
+[Performans](/tr/features/performance) sayfalarına bakın.
 
 ## Tüm paketlerde ortak
 
