@@ -5,7 +5,7 @@ Epsilos'un resmi bilgi bankası / dokümantasyon sitesi. **Astro + Starlight** i
 **Varsayılan / kaynak dil: İngilizce (öneksiz kök)**, Türkçe `/tr/` altında,
 sonraki diller aynı desenle (`/de/`, `/fr/` ...).
 
-> Ayrıntılı plan, hedefler ve deploy notları: ana repoda `smartweb/docs/docs-site.md`.
+> Ayrıntılı plan, hedefler ve deploy notları: ana repoda `smartweb/docs/doc-portal.md`.
 
 ## Geliştirme
 

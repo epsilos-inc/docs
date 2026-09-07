@@ -8,6 +8,7 @@ import starlightLlmsTxt from 'starlight-llms-txt';
 const site = process.env.DOCS_SITE ?? 'https://docs.epsilos.com';
 
 // Site geneli yapilandirilmis veri (schema.org). Her sayfanin <head>'ine eklenir.
+// logo: docs sitesinde barindirilan raster PNG (640x163, Google'in >=112px logo sarti).
 const structuredData = {
 	'@context': 'https://schema.org',
 	'@graph': [
@@ -16,7 +17,7 @@ const structuredData = {
 			'@id': 'https://www.epsilos.com/#organization',
 			name: 'Epsilos',
 			url: 'https://www.epsilos.com',
-			logo: 'https://www.epsilos.com.tr/uploads/images/epsilos/epsilos-logo.svg',
+			logo: `${site}/epsilos-logo.png`,
 			description:
 				'Epsilos is a managed platform for e-commerce stores and corporate websites, with a visual page builder and flexible hosting.',
 			sameAs: [
@@ -58,6 +59,12 @@ export default defineConfig({
 			title: 'Epsilos',
 			description:
 				'Epsilos e-commerce and corporate website platform — official knowledge base, deployment model, features and comparisons.',
+			logo: {
+				light: './src/assets/epsilos-logo.svg',
+				dark: './src/assets/epsilos-logo-light.svg',
+				replacesTitle: true,
+			},
+			favicon: '/favicon.svg',
 			plugins: [
 				starlightLlmsTxt({
 					projectName: 'Epsilos',
@@ -75,12 +82,30 @@ export default defineConfig({
 					].join('\n'),
 				}),
 			],
+			components: {
+				Footer: './src/components/Footer.astro',
+			},
 			head: [
 				{
 					tag: 'meta',
 					attrs: {
 						name: 'google-site-verification',
 						content: 'f0t9XDrPYQt5-69y5jj0LHOBDLkvSG-9SL4R0CpPCYU',
+					},
+				},
+				// Eski tarayicilar icin .ico yedek favicon (SVG'ye ek).
+				{
+					tag: 'link',
+					attrs: { rel: 'icon', href: '/favicon.ico', sizes: '32x32' },
+				},
+				// llms.txt keşfi — konvansiyonel yol /llms.txt; ayrica link ipucu.
+				{
+					tag: 'link',
+					attrs: {
+						rel: 'alternate',
+						type: 'text/plain',
+						href: '/llms.txt',
+						title: 'llms.txt',
 					},
 				},
 				{

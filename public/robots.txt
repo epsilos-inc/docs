@@ -2,3 +2,8 @@ User-agent: *
 Allow: /
 
 Sitemap: https://docs.epsilos.com/sitemap-index.xml
+
+# llms.txt (https://llmstxt.org/)
+# https://docs.epsilos.com/llms.txt
+# https://docs.epsilos.com/llms-small.txt
+# https://docs.epsilos.com/llms-full.txt

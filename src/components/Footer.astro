@@ -1,0 +1,25 @@
+---
+import Default from '@astrojs/starlight/components/Footer.astro';
+
+const isTR = Astro.locals.starlightRoute?.locale === 'tr';
+const label = isTR ? 'Yapay zeka araçları için' : 'For AI tools';
+---
+
+<Default />
+
+<p class="epsilos-llms-note" data-pagefind-ignore>
+	{label}:
+	<a href="/llms.txt">llms.txt</a> &middot;
+	<a href="/llms-full.txt">llms-full.txt</a>
+</p>
+
+<style>
+	.epsilos-llms-note {
+		margin-top: 1.5rem;
+		font-size: var(--sl-text-xs);
+		color: var(--sl-color-gray-3);
+	}
+	.epsilos-llms-note a {
+		color: var(--sl-color-gray-2);
+	}
+</style>

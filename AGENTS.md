@@ -3,7 +3,7 @@
 Epsilos'un kamuya açık bilgi bankası (`docs.epsilos.com`). Amaç: LLM görünürlüğü +
 markalı/karşılaştırma SEO'su. **Bu proje ana `smartweb` çözümünden bağımsızdır.**
 
-- **Plan / hedefler / deploy / Search Console:** ana repoda `smartweb/docs/docs-site.md`
+- **Plan / hedefler / deploy / Search Console:** ana repoda `smartweb/docs/doc-portal.md`
 - Astro + Starlight statik site, **veritabanı yok**
 - İçerik: `src/content/docs/**` (İngilizce, kaynak dil, öneksiz) + `src/content/docs/tr/**` (Türkçe, `/tr/`)
 - Alt-yollar diller arası aynı; çevrilmemiş sayfa İngilizce'ye düşer; sidebar `astro.config.mjs`
