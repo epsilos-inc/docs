@@ -1,35 +1,39 @@
 ---
 title: Who is it for?
-description: Epsilos is built for non-technical business owners who want a managed solution — retail, fashion, electronics, food, services and corporate showcase sites.
+description: Epsilos serves businesses of every size — from a first online store to high-volume, multi-store operations — that want a managed platform without giving up control.
 sidebar:
   order: 2
 ---
 
-Epsilos is built for businesses that want to sell online or publish a corporate
-website **without managing infrastructure**.
+Epsilos is built for businesses that want to sell online or run a corporate website
+on a platform that scales with them — **from a first store to a high-volume,
+multi-store operation.**
 
 ## A good fit
 
-- **Non-technical business owners** who don't want to manage servers, hosting or
-  software updates and prefer to run everything from one panel.
-- **Small and medium businesses** — small shops, boutiques, local service
-  businesses, mid-size retail.
-- **Verticals:** retail, fashion, electronics, food, furniture, construction,
-  consulting, portfolio / showcase sites.
+- **Businesses of every size** — a shop launching its first store, a growing brand,
+  or an established company running high-traffic, multi-store, multi-market commerce
+  on the same platform.
+- **Non-technical owners** who want a managed service and a single visual panel,
+  with no servers or updates to handle.
+- **Teams that want control** — Epsilos can also run on partner data centers or
+  your own infrastructure through the licence system, so hosting and data location
+  stay in your hands when that matters.
+- **Companies that need both** a store and a corporate / showcase site from one panel.
+- **Multi-market sellers** — multi-currency, multi-language, regional payment
+  gateways and installment options.
+- **30+ sectors** — textile, electronics, furniture, food, cosmetics, accessories,
+  B2B wholesale and more.
 - **Teams that want to launch fast** — ready themes and modules, live in days.
-- **Businesses selling in Turkey** — local payment infrastructure (PayTR, Iyzico
-  installments), Turkish Central Bank exchange rates, Turkish interface and support.
 
 ## Probably not a fit
 
-- Organizations that need **full control on their own servers** and have a DevOps
-  team (Epsilos is a managed service; Epsilos runs the hosting).
-- Large-scale operations with **highly custom, non-standard workflows** — start with
-  [Concept Design](/getting-started/what-is-epsilos) or a demo call to scope the
-  requirements first.
+- **Teams that specifically need an open-source platform** they can freely modify
+  and redistribute. Epsilos is a commercial platform; source-code access can be
+  arranged in specific cases, but that is the exception, not the model.
 
 ## Not sure?
 
 You can open a free demo account and explore the system before buying. Every demo
 includes a personalised presentation from the Epsilos team.
-[Try for free →](https://www.epsilos.com/ucretsiz-dene)
+[Try for free →](https://www.epsilos.com)

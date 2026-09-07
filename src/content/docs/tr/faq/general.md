@@ -29,8 +29,9 @@ dışa aktarılabilir.
 
 ## Hangi ödeme yöntemlerini destekliyor?
 
-Iyzico (taksitli), PayTR (iFrame ve form); kart şemaları Mastercard, Visa,
-American Express ve Troy.
+Standart kart şemaları (Visa, Mastercard, American Express) + taksit destekli
+bölgesel ödeme altyapıları ve canlı döviz kuruyla çoklu para birimi fiyatlandırma.
+Kullanılabilir ödeme altyapıları sattığınız pazarlara göre değişir.
 
 ## Teknik bilgi gerekiyor mu?
 
@@ -44,9 +45,9 @@ Evet. Aktif tema panelden anında değiştirilir; içeriğiniz ve verileriniz et
 ## Deneyebilir miyim?
 
 Evet. Ücretsiz bir demo hesabı açabilir ve Epsilos ekibinden kişiye özel bir sunum
-alabilirsiniz: [epsilos.com/ucretsiz-dene](https://www.epsilos.com/ucretsiz-dene).
+alabilirsiniz: [epsilos.com](https://www.epsilos.com).
 
 ## Destek nasıl sağlanıyor?
 
-E-posta 7/24 (support@epsilos.com), WhatsApp 09:30–18:00 (0533 368 15 35).
-Yanıt süresi 12 saat içindedir.
+E-posta desteği (support@epsilos.com), 12 saat içinde yanıt; ayrıca çalışma
+saatlerinde canlı sohbet. Her hesap kişiye özel bir başlangıç sunumu da alır.

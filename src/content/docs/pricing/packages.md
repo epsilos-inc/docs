@@ -29,7 +29,7 @@ For current package contents and prices:
 
 You can explore the entire system with a free demo account before buying. Every demo
 includes a personalised presentation from the Epsilos team.
-[Try for free →](https://www.epsilos.com/ucretsiz-dene)
+[Try for free →](https://www.epsilos.com)
 
 <!-- TODO: add tier names, limits and price ranges as a table once finalised.
      Source: docs/packages.md (internal repo). -->

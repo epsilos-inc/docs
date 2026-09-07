@@ -1,22 +1,39 @@
 ---
 title: Bayi ve tasarımcı programları
-description: Epsilos bayilik başvurusu ve Epsilos tasarımcısı olma programları — Epsilos paketlerini satmak veya tema üretmek isteyenler için.
+description: Epsilos bayi programı (otomatik demo ve tam kurulum, lisans/süre takibi, öncelikli destek) ve Epsilos tasarımcı programı.
 sidebar:
   order: 1
 ---
 
 Epsilos, ekosisteminde iş yapmak isteyenler için iki ortaklık programı sunar.
 
-## Bayilik Başvurusu (Reseller)
+## Bayi programı
 
-Yetkili Epsilos bayisi olarak Epsilos paketlerini kendi müşterilerinize satabilirsiniz.
-Bayiler kendi müşteri portföylerini bir bayi paneli üzerinden yönetir.
+Yetkili Epsilos bayileri, Epsilos paketlerini kendi müşterilerine satar ve tüm
+müşteri portföyünü özel bir bayi panelinden yönetir — sizin tarafınızda sunucu
+veya manuel kurulum işi yok.
 
-- Kendi müşterilerinize paket satışı
-- Bayi paneli üzerinden lisans ve müşteri yönetimi
-- Çok dilli panel desteği
+### Bayi paneli neler sağlar
 
-Başvuru: [epsilos.com](https://www.epsilos.com) üzerinden "Bayilik Başvurusu".
+- **Otomatik demo kurma** — bir aday müşteri için tek adımda, teması önceden
+  seçilmiş, sunuma hazır bir demo site açın.
+- **Otomatik tam kurulum** — ödeme yapan bir müşteri için hiçbir manuel sunucu işi
+  olmadan eksiksiz, lisanslı bir paket kurun.
+- **Müşteri portföyü** — her müşteri, site ve paket tek listede.
+- **Lisans ve süre takibi** — her müşterinin lisans durumu, başlangıç ve bitiş
+  tarihleri ve yaklaşan yenilemeler tek bakışta.
+- **Yenileme ve yükseltme** — panelden lisans süresini uzatın veya müşterinin
+  paketini değiştirin.
+- **Öncelikli destek** — bayi tarafından yönetilen hesaplar için ayrı bir destek
+  kanalı.
+- **Çoklu dil** — bayi paneli ve müşteriye giden e-postalar birden fazla dilde.
+
+### Nasıl çalışır
+
+1. [epsilos.com](https://www.epsilos.com) üzerinden bayilik başvuru formunu doldurun.
+2. Onaylandığınızda bayi paneline erişim alırsınız.
+3. Müşteri kazanmak için demolar oluşturun, satın aldıklarında tam kuruluma çevirin.
+4. Tüm portföyünüzün lisans, yenileme ve desteğini tek yerden yönetin.
 
 ## Epsilos Tasarımcısı Ol
 
@@ -24,6 +41,6 @@ Epsilos tasarımcı ağına katılıp müşteriler için özel tema ve konsept t
 üretebilirsiniz. Ayrıca [Epsilos tema ve eklenti pazarında](https://market.epsilos.com.tr)
 tema ve eklenti satışa sunabilirsiniz.
 
-Başvuru: [epsilos.com](https://www.epsilos.com) üzerinden "Epsilos Tasarımcısı Ol".
+Başvuru: [epsilos.com](https://www.epsilos.com) üzerinden tasarımcı başvuru formu.
 
 <!-- TODO: komisyon oranları, ödeme koşulları ve başvuru kriterleri netleşince eklenecek. -->

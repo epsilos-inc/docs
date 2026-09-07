@@ -11,7 +11,7 @@ This page summarises Epsilos's core features. For details see
 ## Common to all packages
 
 - Visual drag-and-drop page builder (35+ ready-made modules)
-- 70+ mobile-responsive themes, instant switching from the panel
+- Large library of mobile-responsive themes tuned for 30+ sectors, instant switching
 - Blog module (posts, categories, tags, comments)
 - Multi-language content
 - SEO tools: per page/product meta title, description, keywords, Open Graph
@@ -19,6 +19,7 @@ This page summarises Epsilos's core features. For details see
 - reCAPTCHA protection
 - Custom code injection slots (head, before `</head>`, before `</body>`) — for GTM,
   chat widgets, etc.
+- Rich snippet / structured data (Schema.org) markup for search results
 - SMTP email (order confirmations, account emails, email templates)
 - Contact forms
 - Full self-service admin panel
@@ -27,14 +28,16 @@ This page summarises Epsilos's core features. For details see
 
 - Product catalog, categories, brand pages
 - Cart and checkout flow
-- Payment infrastructure: Iyzico (installments), PayTR (iFrame & form), Mastercard,
-  Visa, American Express, Troy
+- Payment infrastructure: standard card schemes plus regional gateways and
+  installment support
 - Order management, order status tracking, shipment tracking
 - Member account management (registration, login, profile, order history)
 - Favorites / wishlist
 - Product reviews and ratings
-- Discount coupon system (percentage or fixed amount, product-scoped)
-- Live exchange rate support (Turkish Central Bank feed, updates every 10 seconds)
+- Discount and coupon system (percentage or fixed amount, product-scoped)
+- Abandoned cart recovery — automated reminder emails with a personalised one-time
+  discount code
+- Multi-currency pricing with live exchange rates
 
 ## Features that vary by tier
 
@@ -42,13 +45,16 @@ Package tiers differ in:
 
 - Allowed number of products
 - Storage / bandwidth quotas
-- Advanced features (variant management, ETL / import-export, API access, coupons, etc.)
+- Advanced features (variant management, ETL / import-export, API access, etc.)
+- Marketplace integrations (sell your catalog on third-party marketplaces)
+- Mobile applications (native store app)
+- ERP integrations
 - Support level
 
 See [Pricing](/pricing/packages) for current packages and prices.
 
 ## Optional add-ons
 
-Additional modules — hotel booking, real-estate listings, QR menu, abandoned cart
-recovery, e-invoicing, visitor analytics, mobile app and more — can be added through
-the [Epsilos theme and add-on marketplace](https://market.epsilos.com).
+Additional modules — hotel booking, real-estate listings, QR menu, e-invoicing,
+visitor analytics and more — can be added through the
+[Epsilos theme and add-on marketplace](https://market.epsilos.com).

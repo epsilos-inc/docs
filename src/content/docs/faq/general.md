@@ -28,8 +28,9 @@ contract.
 
 ## Which payment methods are supported?
 
-Iyzico (installments), PayTR (iFrame and form); card schemes Mastercard, Visa,
-American Express and Troy.
+Standard card schemes (Visa, Mastercard, American Express) plus regional payment
+gateways with installment support, and multi-currency pricing with live exchange
+rates. Available gateways depend on the markets you sell in.
 
 ## Do I need technical knowledge?
 
@@ -44,9 +45,10 @@ not affected.
 ## Can I try it first?
 
 Yes. You can open a free demo account and get a personalised presentation from the
-Epsilos team: [epsilos.com/ucretsiz-dene](https://www.epsilos.com/ucretsiz-dene).
+Epsilos team: [epsilos.com](https://www.epsilos.com).
 
 ## How is support provided?
 
-Email 24/7 (support@epsilos.com), WhatsApp 09:30–18:00 (0533 368 15 35). Response
-time is within 12 hours.
+Email support (support@epsilos.com) with a response time within 12 hours, plus live
+chat during business hours. Every account also gets a personalised onboarding
+presentation.

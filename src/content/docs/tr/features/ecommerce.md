@@ -1,49 +1,103 @@
 ---
 title: E-Ticaret özellikleri
-description: Epsilos e-ticaret paketlerinin ürün yönetimi, ödeme, sipariş, kargo ve müşteri özellikleri.
+description: Epsilos e-ticaret paketlerinin tam özellik seti — ürün yönetimi, ödeme, pazaryerleri, kargo, pazarlama, SEO, analitik, yapay zeka araçları ve entegrasyonlar.
 sidebar:
   order: 2
 ---
 
+Epsilos e-ticaret paketleri, katalog ve ödemeden pazarlama, analitik ve üçüncü
+taraf entegrasyonlara kadar bir çevrimiçi mağaza yürütmek için gereken her şeyi
+kapsar. Özelliklerin kullanılabilirliği paket kademesine göre değişir —
+[Fiyatlandırma](/tr/pricing/packages) sayfasına bakın.
+
 ## Ürün ve katalog
 
-- Ürün kataloğu, kategori ağacı, marka sayfaları
-- Varyant yönetimi (beden, renk vb. varyant tipleri ve değerleri)
+- Ürün, kategori ve marka yönetimi
+- Gelişmiş varyasyonlar (beden, renk, malzeme vb. — her biri kendi fiyatı, stoğu
+  ve görselleriyle)
+- Toplu ürün yükleme
+- Excel ve XML içe / dışa aktarma
+- Otomatik görsel optimizasyonu
+- Ürün bazında meta başlık ve açıklama
 - Stok takibi
-- Ürün görselleri ve galerileri
-- ETL / içe-dışa aktarma (pakete göre)
+
+## Vitrin ve içerik
+
+- Hazır bölümler ve modüllerle görsel sürükle-bırak sayfa oluşturucu
+- Tasarım sihirbazı
+- 30+ sektöre göre uyarlanmış geniş duyarlı tema kütüphanesi
+- Blog sistemi
+- RTL desteği ve tarayıcı diline göre otomatik yönlendirmeli çoklu dil sistemi
+- Canlı döviz kuruyla çoklu para birimi fiyatlandırma
+
+## Sepet ve ödeme
+
+- Sepet ve ödeme akışı, üye olmadan ödeme dahil
+- Üye hesapları (kayıt, giriş, profil, sipariş geçmişi)
+- Favoriler / istek listesi
 
 ## Ödeme
 
-- Iyzico (taksitli ödeme)
-- PayTR (iFrame ve form)
-- Kart şemaları: Mastercard, Visa, American Express, Troy
-- Canlı döviz kuru (TCMB beslemesi) ile çoklu para birimi
-
-Kart ödemelerinde stok yalnızca ödeme sağlayıcısından başarı bildirimi geldiğinde
-düşülür.
+- Ödeme altyapısı entegrasyonu
+- Standart kart şemaları (Visa, Mastercard, American Express) + taksit destekli
+  bölgesel ödeme altyapıları
+- Havale / manuel ödeme
+- Stok yalnızca ödeme onaylandığında düşülür
 
 ## Sipariş ve kargo
 
-- Sipariş listesi ve durum güncellemeleri
+- Sipariş yönetimi ve durum takibi
 - Fatura oluşturma
-- Kargo / gönderi takibi
-- Sipariş durumu bildirimleri (e-posta)
+- Takip numaralı kargo / taşıyıcı entegrasyonları
+- Sipariş bildirim e-postaları
 
-## Müşteri
+## Pazarlama ve dönüşüm
 
-- Üye kaydı, giriş, profil, sipariş geçmişi
-- Favoriler / istek listesi
+- İndirim ve kupon sistemi (yüzde veya sabit tutar, ürün bazlı)
+- Sepet hatırlatma — kişiye özel tek kullanımlık indirim kodlu otomatik hatırlatma
+  e-postaları
 - Ürün yorumları ve puanlama
+- Google Ads ve sosyal reklam (Meta / Instagram / Facebook) desteği ve kampanya
+  kurulumu
+- Sosyal medya yönetim araçları
 
-## Pazarlama
+## SEO ve analitik
 
-- İndirim kuponu sistemi (yüzde veya sabit tutar, ürün bazlı)
-- SEO alanları (ürün bazında meta ve Open Graph)
-- Google Analytics / Ads entegrasyonu
+- SEO sihirbazı
+- Rich snippet / yapılandırılmış veri (Schema.org) ve Open Graph etiketleri
+- Search Console ve Analytics entegrasyonu
+- Gelişmiş istatistik ve raporlama
+- Isı haritası ve session replay
+- Hedef kitle ve lokasyon analizi
 
-## İsteğe bağlı
+## Entegrasyonlar
 
-Sepet terk hatırlatma, e-Fatura (Uyumsoft), pazaryeri entegrasyonu (Fleksup),
-mobil uygulama gibi eklentiler [pazar](https://market.epsilos.com.tr) üzerinden
-etkinleştirilebilir.
+- Pazaryeri entegrasyonları — kataloğunuzu üçüncü taraf pazaryerlerinde listeleyin
+- ERP entegrasyonları
+- Kargo / taşıyıcı entegrasyonları
+- e-Fatura entegrasyonu
+- CDN yayını
+
+## Yapay zeka araçları
+
+- AI müşteri asistanı
+- AI rekabet analizi
+- AI SEO metin üretimi
+- AI destekli varyasyon oluşturma
+- AI otomasyon akışları
+
+## İş modelleri
+
+- B2C vitrin
+- Bayi / toptan altyapısıyla B2B ticaret
+
+## Barındırma ve operasyon
+
+- SSL ve düzenli yedeklemeli yönetilen barındırma — veya lisans sistemi aracılığıyla
+  partner veri merkezlerinde ya da kendi sunucularınızda (Windows veya Linux) kurulum
+- E-posta barındırma (POP3 / IMAP)
+
+## Destek
+
+- Öncelikli destek ve birebir eğitim (kademeye göre)
+- Uzak masaüstü yardımı

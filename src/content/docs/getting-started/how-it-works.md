@@ -25,17 +25,19 @@ Through the browser-based admin panel:
 - Pages and content (visual drag-and-drop layout designer)
 - Blog posts, categories, tags
 - Menus and navigation
-- Theme selection (70+ designs, instant switching)
+- Theme selection (large responsive theme library, instant switching)
 - Settings: company info, SMTP, payment configuration, analytics keys
 - Users and roles
 
 ## Typical onboarding flow
 
-1. **Free demo** — open a demo account at
-   [epsilos.com/ucretsiz-dene](https://www.epsilos.com/ucretsiz-dene) and get a
-   personalised presentation from the team.
+1. **Free demo** — open a demo account at [epsilos.com](https://www.epsilos.com)
+   and get a personalised presentation from the team.
 2. **Choose a package** — e-commerce or ready website, based on your needs.
-3. **Setup** — Epsilos prepares the site; your domain is connected.
+3. **Setup** — the site can be provisioned by the Epsilos team, set up by you
+   through the built-in setup wizard, or installed automatically by a partner
+   hosting company from its control panel (Plesk or cPanel). Your domain is
+   connected during this step.
 4. **Configure** — pick a theme, add content and products from the panel.
 5. **Go live** — the site is published. From here on it is fully self-service.
 

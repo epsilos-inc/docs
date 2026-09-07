@@ -25,16 +25,19 @@ Tarayıcı tabanlı yönetim paneli üzerinden:
 - Sayfalar ve içerik (görsel sürükle-bırak düzen tasarımcısı)
 - Blog yazıları, kategoriler, etiketler
 - Menüler ve navigasyon
-- Tema seçimi (70+ tasarım, anında geçiş)
+- Tema seçimi (geniş duyarlı tema kütüphanesi, anında geçiş)
 - Ayarlar: firma bilgisi, SMTP, ödeme yapılandırması, analytics anahtarları
 - Kullanıcılar ve roller
 
 ## Tipik başlangıç akışı
 
-1. **Ücretsiz demo** — [epsilos.com/ucretsiz-dene](https://www.epsilos.com/ucretsiz-dene)
-   adresinden demo hesabı açılır, ekipten kişiye özel sunum alınır.
+1. **Ücretsiz demo** — [epsilos.com](https://www.epsilos.com) adresinden demo
+   hesabı açılır, ekipten kişiye özel sunum alınır.
 2. **Paket seçimi** — ihtiyaca göre e-ticaret veya hazır web sitesi paketi seçilir.
-3. **Kurulum** — Epsilos siteyi hazırlar; alan adı bağlanır.
+3. **Kurulum** — site, Epsilos ekibi tarafından hazırlanabilir, dahili kurulum
+   sihirbazı ile kullanıcının kendisi tarafından yapılabilir veya bir partner
+   hosting firmasının panelinden (Plesk ya da cPanel) otomatik olarak kurulabilir.
+   Alan adı bu adımda bağlanır.
 4. **Yapılandırma** — tema seçilir, içerik ve ürünler panelden girilir.
 5. **Yayın** — site canlıya alınır. Bundan sonrası tamamen self-servistir.
 

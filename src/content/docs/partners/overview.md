@@ -1,6 +1,6 @@
 ---
 title: Reseller and designer programs
-description: The Epsilos reseller application and Epsilos designer programs — for those who want to sell Epsilos packages or produce themes and add-ons.
+description: The Epsilos reseller program (automated demo and full installs, licence tracking, priority support) and the Epsilos designer program.
 sidebar:
   order: 1
 ---
@@ -8,16 +8,33 @@ sidebar:
 Epsilos offers two partnership programs for people who want to do business in its
 ecosystem.
 
-## Reseller application
+## Reseller program
 
-As an authorised Epsilos reseller you can sell Epsilos packages to your own clients.
-Resellers manage their client portfolio through a reseller panel.
+Authorised Epsilos resellers sell Epsilos packages to their own clients and manage
+their entire client portfolio from a dedicated reseller panel — no servers or
+manual provisioning on your side.
 
-- Sell packages to your own clients
-- Manage licences and clients through the reseller panel
-- Multi-language panel support
+### What the reseller panel provides
 
-Apply via "Bayilik Başvurusu" on [epsilos.com](https://www.epsilos.com).
+- **Automated demo setup** — spin up a demo site for a prospect in one step, with a
+  theme preselected and ready to present.
+- **Automated full installation** — provision a complete, licensed package for a
+  paying client without any manual server work.
+- **Client portfolio** — every client, site and package in one list.
+- **Licence and duration tracking** — each client's licence status, start and
+  expiry dates, and upcoming renewals at a glance.
+- **Renewals and upgrades** — extend a licence or change a client's package from
+  the panel.
+- **Priority support** — a dedicated support channel for reseller-managed accounts.
+- **Multi-language** — the reseller panel and the client-facing emails are
+  available in multiple languages.
+
+### How it works
+
+1. Apply through the reseller application form on [epsilos.com](https://www.epsilos.com).
+2. Once approved, you get access to the reseller panel.
+3. Create demos to win clients, then convert them to full installations when they buy.
+4. Manage licences, renewals and support for your whole portfolio from one place.
 
 ## Become an Epsilos designer
 
@@ -25,6 +42,6 @@ Join the Epsilos designer network and produce custom themes and concept designs 
 clients. You can also sell themes and add-ons on the
 [Epsilos theme and add-on marketplace](https://market.epsilos.com).
 
-Apply via "Epsilos Tasarımcısı Ol" on [epsilos.com](https://www.epsilos.com).
+Apply through the designer application form on [epsilos.com](https://www.epsilos.com).
 
 <!-- TODO: add commission rates, payment terms and application criteria once finalised. -->

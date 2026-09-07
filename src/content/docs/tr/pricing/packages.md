@@ -29,7 +29,7 @@ Güncel paket içerikleri ve fiyatlar için:
 
 Satın almadan önce ücretsiz bir demo hesabıyla tüm sistemi inceleyebilirsiniz.
 Her demo, Epsilos ekibinden kişiye özel bir sunum içerir.
-[Ücretsiz dene →](https://www.epsilos.com/ucretsiz-dene)
+[Ücretsiz dene →](https://www.epsilos.com)
 
 <!-- TODO: paket kademelerinin adları, limitleri ve fiyat aralıkları netleşince
      buraya tablo olarak eklenecek. Kaynak: docs/packages.md (iç repo). -->

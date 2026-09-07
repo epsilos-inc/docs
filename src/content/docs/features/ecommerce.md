@@ -1,47 +1,101 @@
 ---
 title: E-commerce features
-description: Product management, payments, orders, shipping and customer features of Epsilos e-commerce packages.
+description: The full e-commerce feature set of Epsilos — product management, payments, marketplaces, shipping, marketing, SEO, analytics, AI tools and integrations.
 sidebar:
   order: 2
 ---
 
+Epsilos e-commerce packages cover everything needed to run an online store, from
+catalog and checkout to marketing, analytics and third-party integrations. Feature
+availability varies by package tier — see [Pricing](/pricing/packages).
+
 ## Products and catalog
 
-- Product catalog, category tree, brand pages
-- Variant management (size, color, etc. variant types and values)
+- Product, category and brand management
+- Advanced variants (size, color, material, etc. — each with its own price, stock
+  and images)
+- Bulk product upload
+- Excel and XML import / export
+- Automatic image optimization
+- Per-product meta title and description
 - Stock tracking
-- Product images and galleries
-- ETL / import-export (by tier)
+
+## Storefront and content
+
+- Visual drag-and-drop page builder with ready-made sections and modules
+- Design wizard
+- Large library of responsive themes tuned for 30+ sectors
+- Blog system
+- Multi-language system with RTL support and automatic redirect by browser language
+- Multi-currency pricing with live exchange rates
+
+## Cart and checkout
+
+- Cart and checkout flow, including guest checkout
+- Member accounts (registration, login, profile, order history)
+- Favorites / wishlist
 
 ## Payments
 
-- Iyzico (installment payments)
-- PayTR (iFrame and form)
-- Card schemes: Mastercard, Visa, American Express, Troy
-- Multi-currency via live exchange rates (Turkish Central Bank feed)
-
-For card payments, stock is only deducted when the payment provider confirms success.
+- Payment gateway integration
+- Standard card schemes (Visa, Mastercard, American Express) plus regional gateways
+  with installment support
+- Bank transfer / manual payment
+- Stock is deducted only when payment is confirmed
 
 ## Orders and shipping
 
-- Order list and status updates
+- Order management and status tracking
 - Invoice generation
-- Shipment / cargo tracking
-- Order status notifications (email)
+- Shipping / carrier integrations with tracking
+- Order notification emails
 
-## Customers
+## Marketing and conversion
 
-- Member registration, login, profile, order history
-- Favorites / wishlist
+- Discount and coupon system (percentage or fixed amount, product-scoped)
+- Abandoned cart recovery — automated reminder emails with a personalised one-time
+  discount code
 - Product reviews and ratings
+- Google Ads and social ad (Meta / Instagram / Facebook) support and campaign setup
+- Social media management tools
 
-## Marketing
+## SEO and analytics
 
-- Discount coupon system (percentage or fixed amount, product-scoped)
-- SEO fields (per-product meta and Open Graph)
-- Google Analytics / Ads integration
+- SEO wizard
+- Rich snippet / structured data (Schema.org) and Open Graph tags
+- Search Console and Analytics integration
+- Advanced statistics and reporting
+- Heatmaps and session replay
+- Audience and location analysis
 
-## Optional
+## Integrations
 
-Add-ons such as abandoned cart recovery, e-invoicing, marketplace integration and a
-mobile app can be enabled through the [marketplace](https://market.epsilos.com).
+- Marketplace integrations — list your catalog on third-party marketplaces
+- ERP integrations
+- Shipping / carrier integrations
+- e-invoicing integration
+- CDN delivery
+
+## AI tools
+
+- AI customer assistant
+- AI competitor analysis
+- AI SEO copywriting
+- AI-assisted variant generation
+- AI automation workflows
+
+## Business models
+
+- B2C storefront
+- B2B commerce with dealer / wholesale infrastructure
+
+## Hosting and operations
+
+- Managed hosting with SSL and regular backups — or deploy on partner data centers
+  or your own servers (Windows or Linux) through the licence system
+- Email hosting (POP3 / IMAP)
+
+## Support
+
+- Priority support and one-on-one training (by tier)
+- Remote-desktop assistance
