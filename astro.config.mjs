@@ -65,6 +65,7 @@ export default defineConfig({
 				replacesTitle: true,
 			},
 			favicon: '/favicon.svg',
+			customCss: ['./src/styles/epsilos.css'],
 			plugins: [
 				starlightLlmsTxt({
 					projectName: 'Epsilos',
@@ -91,6 +92,22 @@ export default defineConfig({
 					attrs: {
 						name: 'google-site-verification',
 						content: 'f0t9XDrPYQt5-69y5jj0LHOBDLkvSG-9SL4R0CpPCYU',
+					},
+				},
+				// Epsilos marka fontlari (Sora / Manrope).
+				{
+					tag: 'link',
+					attrs: { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
+				},
+				{
+					tag: 'link',
+					attrs: { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: true },
+				},
+				{
+					tag: 'link',
+					attrs: {
+						rel: 'stylesheet',
+						href: 'https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Sora:wght@600;700;800&display=swap',
 					},
 				},
 				// Eski tarayicilar icin .ico yedek favicon (SVG'ye ek).
