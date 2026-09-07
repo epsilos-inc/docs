@@ -74,6 +74,7 @@ export default defineConfig({
 					details: [
 						'- **What it is:** a managed platform for e-commerce stores and corporate/showcase websites, managed from one visual admin panel. No technical knowledge required.',
 						'- **Hosting:** fully managed by Epsilos by default, or deployed on partner data centers or your own servers through the licence system.',
+						'- **Generation:** Epsilos has run managed stores and sites for years; the current generation is Epsilos v3 "Nova", a full modernization of the platform.',
 						'- **Architecture:** multi-tenant SaaS. Backend ASP.NET Core (.NET) + EF Core; PostgreSQL (SQL Server also supported); React 19 admin SPA; server-rendered storefront. Each store has its own isolated database and application pool.',
 						'- **Signature feature:** a drag-and-drop layout designer that works on the live site, with 35+ modules.',
 						'- **Commerce:** product catalog and variants, cart/checkout, orders and shipping, coupons, abandoned cart recovery, reviews, multi-currency with live exchange rates, B2B/wholesale, marketplace and ERP integrations, mobile app.',
@@ -176,6 +177,11 @@ export default defineConfig({
 					label: 'FAQ',
 					translations: { 'tr-TR': 'SSS' },
 					items: [{ autogenerate: { directory: 'faq' } }],
+				},
+				{
+					label: 'Changelog',
+					translations: { 'tr-TR': 'Değişiklik Günlüğü' },
+					items: [{ slug: 'changelog' }],
 				},
 			],
 		}),

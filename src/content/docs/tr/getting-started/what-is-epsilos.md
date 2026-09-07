@@ -55,8 +55,11 @@ ve daha fazlası. Aktif tema, içeriğe veya veriye dokunmadan panelden değişt
 
 ## Sistem altyapısı
 
-Epsilos, tamamen yönetilen bir hizmet olarak veya kendi altyapınızda kurulabilen
-modern, çok kiracılı (multi-tenant) bir platformdur:
+Epsilos yıllardır yönetilen mağazalar ve siteler işletir. Mevcut nesil
+**v3 "Nova"**, platformun güncel bir yığın üzerine tam modernleştirilmiş hâlidir.
+
+Tamamen yönetilen bir hizmet olarak veya kendi altyapınızda kurulabilen, çok
+kiracılı (multi-tenant) bir platformdur:
 
 - **Backend:** ASP.NET Core (.NET), veri katmanı Entity Framework Core.
 - **Veritabanı:** PostgreSQL (birincil), SQL Server de desteklenir.

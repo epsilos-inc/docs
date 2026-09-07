@@ -49,6 +49,20 @@ Lab metrikleri (masaüstü): First Contentful Paint 0.8 sn · Largest Contentful
 - **Hafif ön yüz** — vitrin minimal JavaScript gönderir; etkileşimli kısımlar
   aşamalı zenginleştirilir.
 
+## Skor neden 100 değil
+
+PageSpeed genellikle birkaç **render-blocking CSS ve JavaScript isteği** işaretler.
+Skoru daha da yükseltmek mümkün: tüm stil ve script dosyaları tek dosyada
+birleştirilebilir ya da doğrudan sayfa koduna gömülebilir — bunu isteyen site
+sahibi, özel kod alanları üzerinden istediği zaman yapabilir.
+
+Epsilos varsayılan olarak bunu bilerek yapmaz. Stil ve script'leri ayrı,
+düzenlenebilir dosyalar hâlinde tutmak, günlük özelleştirmeyi hızlı kılan şeydir;
+her şeyi birleştirmek birkaç milisaniye kazandırırken sonraki her değişikliği
+yavaşlatır. Core Web Vitals'ı geçen, 90'ların ortası-üstü bir skor gerçek
+kullanıcılar için zaten mükemmel bir sonuçtur; bu nedenle tam 100 peşinde koşmak
+çoğu zaman değer katmayan bir çabadır.
+
 ## Kendiniz ölçün
 
 Herhangi bir Epsilos sitesinde [PageSpeed Insights](https://pagespeed.web.dev/)

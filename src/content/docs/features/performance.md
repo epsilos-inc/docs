@@ -49,6 +49,19 @@ Lab metrics (desktop): First Contentful Paint 0.8 s · Largest Contentful Paint
 - **Lean front-end** — the storefront ships minimal JavaScript; interactive parts
   are enhanced progressively.
 
+## Why the score is not 100
+
+PageSpeed usually flags a few **render-blocking CSS and JavaScript requests**. The
+score can be pushed higher by merging every stylesheet and script into a single
+file, or inlining them into the page — and a site owner who wants that can do it at
+any time through the custom code slots.
+
+Epsilos does not do this by default, on purpose. Keeping styles and scripts as
+separate, editable files is what makes everyday customization quick; consolidating
+everything trades a few milliseconds for slower edits on every future change. A
+score in the mid-to-high 90s with passing Core Web Vitals is already an excellent
+result for real users, so chasing a perfect 100 is rarely a worthwhile effort.
+
 ## Measure it yourself
 
 Run [PageSpeed Insights](https://pagespeed.web.dev/) on any Epsilos site — a

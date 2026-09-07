@@ -55,8 +55,11 @@ content or data.
 
 ## System architecture
 
-Epsilos is a modern multi-tenant platform, available as a fully managed service or
-deployed on your own infrastructure:
+Epsilos has run managed stores and sites for years. The current generation,
+**v3 "Nova"**, is a full modernization of the platform on a current stack.
+
+It is a multi-tenant platform, available as a fully managed service or deployed on
+your own infrastructure:
 
 - **Backend:** ASP.NET Core (.NET) with Entity Framework Core as the data layer.
 - **Database:** PostgreSQL (primary), with SQL Server also supported.
