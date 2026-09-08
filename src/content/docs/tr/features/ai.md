@@ -1,24 +1,24 @@
 ---
 title: Yapay Zeka Desteği
-description: Epsilos'ta yapay zeka, panele sonradan iliştirilmiş bir sohbet kutusu değil — yönetim akışının içine yerleşmiş araçlardır. Admin bar'daki agentic AI editör, içerik ve SEO araçları, çok sağlayıcılı altyapı.
+description: Epsilos'ta yapay zeka, panele sonradan iliştirilmiş bir sohbet kutusu değil, yönetim akışının içine yerleşmiş araçlardır. Admin bar'daki agentic AI editör, içerik ve SEO araçları, çok sağlayıcılı altyapı.
 sidebar:
   order: 6
 ---
 
 Epsilos'ta yapay zeka, panelin köşesine iliştirilmiş bir sohbet kutusu değildir.
 AI araçları doğrudan yönetim akışının içine yerleşmiştir ve en çok işe yaradığı
-yerde **agentic** çalışır — yani sana yalnızca metin önermez, işi kendisi yapar.
+yerde **agentic** çalışır: yani sana yalnızca metin önermez, işi kendisi yapar.
 
 ## Admin bar'daki AI editör (agentic)
 
 Canlı editör çubuğundan açılan AI editör, verdiğin **prompt'a göre ön yüz tasarımı
-yapar ve sonucu sayfanın header, footer ve içerik alanlarına kendisi yazar** —
+yapar ve sonucu sayfanın header, footer ve içerik alanlarına kendisi yazar**,
 manuel kopyala-yapıştır yok.
 
 - **Araç kullanımıyla çalışır:** sayfanın bölümlerini okur, değiştirir, gerektiğinde
   tema CSS'ine yazar.
-- **Tasarımı gereği verimli:** ilk mesajdan itibaren biriken bağlam — sistem
-  talimatları, sayfa içeriği, önceki adımlar — **önbelleğe alınır**; agent her turda
+- **Tasarımı gereği verimli:** ilk mesajdan itibaren biriken bağlam (sistem
+  talimatları, sayfa içeriği, önceki adımlar) **önbelleğe alınır**; agent her turda
   baştan işlemez, yalnızca yeni kısmın bedelini öder. Küçük değişiklikler tam sayfa
   yeniden üretmek yerine hedefli metin değişimiyle yapılır ve agent aynı oturumda
   zaten yazdığı bir bölümü tekrar okumaz. Tur başına maliyet düşük ve öngörülebilir kalır.
@@ -53,7 +53,7 @@ Agentic editör Claude ile çalışır (varsayılan Sonnet; Fable ve Opus seçen
 
 ## Amaç
 
-Yapay zekanın işi, tekrar eden yükü kaldırmaktır — insanın yerini almak değil. Bu
+Yapay zekanın işi, tekrar eden yükü kaldırmaktır, insanın yerini almak değil. Bu
 yüzden her üretim **önce taslak**, sonra **onay**, sonra **geri alınabilir**.
 Maliyet açıkça gösterilir, [changelog](/tr/changelog) herkese açıktır. AI, Epsilos'un
 **modernleştirilmiş mimarisiyle** ([Epsilos nedir?](/tr/getting-started/what-is-epsilos))

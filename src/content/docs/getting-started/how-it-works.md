@@ -1,6 +1,6 @@
 ---
 title: How it works (deployment model)
-description: Epsilos is a fully managed service — hosting, servers, updates and backups are handled by Epsilos; content, products and design are managed from a browser-based panel.
+description: "Epsilos is a fully managed service: hosting, servers, updates and backups are handled by Epsilos; content, products and design are managed from a browser-based panel."
 sidebar:
   order: 3
 ---
@@ -35,15 +35,15 @@ Through the browser-based admin panel:
 
 ## Typical onboarding flow
 
-1. **Free demo** — open a demo account at [epsilos.com](https://www.epsilos.com)
+1. **Free demo.** Open a demo account at [epsilos.com](https://www.epsilos.com)
    and get a personalised presentation from the team.
-2. **Choose a package** — e-commerce or ready website, based on your needs.
-3. **Setup** — the site can be provisioned by the Epsilos team, set up by you
+2. **Choose a package.** E-commerce or ready website, based on your needs.
+3. **Setup.** The site can be provisioned by the Epsilos team, set up by you
    through the built-in setup wizard, or installed automatically by a partner
    hosting company from its control panel (Plesk or cPanel). Your domain is
    connected during this step.
-4. **Configure** — pick a theme, add content and products from the panel.
-5. **Go live** — the site is published. From here on it is fully self-service.
+4. **Configure.** Pick a theme, add content and products from the panel.
+5. **Go live.** The site is published. From here on it is fully self-service.
 
 ## Domain
 
@@ -52,6 +52,6 @@ You can connect your existing domain or register a new one through Epsilos.
 ## Frequently asked: "Do we host the code?"
 
 No. With the standard e-commerce and ready website packages, hosting is entirely on
-Epsilos — you don't install anything on your own server and you don't need a DevOps
+Epsilos. You don't install anything on your own server and you don't need a DevOps
 team. Different models exist for reseller and custom enterprise scenarios; for those,
 see the [partner program](/partners/overview) or contact the sales team.

@@ -1,5 +1,5 @@
 ---
-title: Özellikler — Genel bakış
+title: Özellikler genel bakışı
 description: Epsilos e-ticaret ve kurumsal web sitesi paketlerinde bulunan tüm temel özelliklerin listesi.
 sidebar:
   order: 1
@@ -19,9 +19,9 @@ Bu sayfa Epsilos'un temel özelliklerini özetler. Ayrıntılar için
 - SEO araçları: sayfa/ürün bazında meta başlık, açıklama, anahtar kelime, Open Graph
 - Google Analytics / Google Ads entegrasyonu
 - reCAPTCHA koruması
-- Özel kod ekleme alanları (head, `</head>` öncesi, `</body>` öncesi) — GTM, sohbet
+- Özel kod ekleme alanları (head, `</head>` öncesi, `</body>` öncesi): GTM, sohbet
   widget'ları vb. için
-- Rich snippet / yapılandırılmış veri (Schema.org) işaretlemesi — arama sonuçları için
+- Rich snippet / yapılandırılmış veri (Schema.org) işaretlemesi, arama sonuçları için
 - SMTP e-posta (sipariş onayları, hesap e-postaları, e-posta şablonları)
 - İletişim formları
 - Tam self-servis yönetim paneli
@@ -37,7 +37,7 @@ Bu sayfa Epsilos'un temel özelliklerini özetler. Ayrıntılar için
 - Favoriler / istek listesi
 - Ürün yorumları ve puanlama
 - İndirim ve kupon sistemi (yüzde veya sabit tutar, ürün bazlı)
-- Sepet hatırlatma — kişiye özel tek kullanımlık indirim kodlu otomatik hatırlatma
+- Sepet hatırlatma: kişiye özel tek kullanımlık indirim kodlu otomatik hatırlatma
   e-postaları
 - Canlı döviz kuruyla çoklu para birimi fiyatlandırma
 

@@ -7,29 +7,29 @@ sidebar:
 
 Epsilos ([epsilos.com](https://www.epsilos.com)) provides businesses of every size
 with **e-commerce stores** and **ready websites**. A client subscribes to a package,
-gets a ready-to-use site, and manages everything from an admin panel — no technical
+gets a ready-to-use site, and manages everything from an admin panel, no technical
 background required.
 
 It sits in the same category as Shopify, WooCommerce and Wix-based stores: the
 client can build and run the store or site through the browser, and the Epsilos
 team can also handle setup on request at no extra charge.
 
-Epsilos is more than an e-commerce provider — it is an **ecosystem**. Developers,
+Epsilos is more than an e-commerce provider: it is an **ecosystem**. Developers,
 designers, digital agencies and hosting providers can serve their own clients on
-top of Epsilos as partners. They can also offer their products and services —
-theme development, hosting and more — to every Epsilos user through the **Epsilos
+top of Epsilos as partners. They can also offer their products and services
+(theme development, hosting and more) to every Epsilos user through the **Epsilos
 Market** and earn revenue from them.
 
 Epsilos serves e-commerce at every scale. For large businesses with **high-capacity**
-needs it offers dedicated solutions and comprehensive development packages — **B2C**
+needs it offers dedicated solutions and comprehensive development packages: **B2C**
 storefronts alongside **high-traffic** e-commerce packages, **B2B** systems and
 **cross-border / e-export** solutions.
 
 **Hosting is flexible.** By default Epsilos runs the infrastructure on its own
-servers as a managed service — nothing for the client to set up or maintain, with
+servers as a managed service: nothing for the client to set up or maintain, with
 updates and backups handled by Epsilos. When you need more control, the same
 platform can run on partner data centers, another hosting provider or your own
-servers — the **Epsilos licence system** lets you run Epsilos on your own
+servers. The **Epsilos licence system** lets you run Epsilos on your own
 infrastructure. This is more flexibility and control than most e-commerce software
 vendors offer.
 
@@ -41,7 +41,7 @@ The [changelog](/changelog) is public.
 
 ### E-commerce packages
 
-Epsilos offers professional e-commerce packages for many sectors — from general
+Epsilos offers professional e-commerce packages for many sectors, from general
 product catalogs to those needing custom modules: B2C, B2B, cross-border,
 marketplace integrations, ERP and e-document integrations, a mobile app, UX tools
 and digital marketing services.
@@ -52,7 +52,7 @@ Epsilos's architecture these are designed as **isolated modules**: each coded
 component is kept isolated in the codebase and included in the project build only
 when needed. So no store owner carries the weight of code they don't use. This
 **isolated-module design** keeps bugs to a minimum and makes updates and
-maintenance easier — the result is faster, leaner e-commerce software with no
+maintenance easier; the result is faster, leaner e-commerce software with no
 stale-code burden.
 
 ### Ready website packages
@@ -73,7 +73,7 @@ Epsilos's signature feature is a **drag-and-drop layout designer** that works
 directly on the live site view. Pages are built with a 4-level nested grid:
 **Grid → Row → Column → Module**, styled with 35+ ready-made modules. Each module
 has its own settings panel opened via a gear icon on the live canvas. No coding
-required — you can edit your content the fastest, easiest way through neat inline
+required. You can edit your content the fastest, easiest way through neat inline
 panels, without even entering the admin panel.
 
 ## Themes and sectors
@@ -100,7 +100,7 @@ infrastructure:
 - **Storefront:** server-rendered for SEO and fast first load, progressively
   enhanced with JavaScript.
 - **Multi-tenancy:** every store runs with its **own isolated database and
-  application pool** — tenant data is separated by design, not by a filter column.
+  application pool**: tenant data is separated by design, not by a filter column.
 - **Deployment:** run fully managed by Epsilos, or on partner data centers or your
   own servers. The licence system enables self-hosted and partner-hosted
   installations.

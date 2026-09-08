@@ -1,18 +1,18 @@
 ---
 title: E-commerce features
-description: The full e-commerce feature set of Epsilos — product management, payments, marketplaces, shipping, marketing, SEO, analytics, AI tools and integrations.
+description: "The full e-commerce feature set of Epsilos: product management, payments, marketplaces, shipping, marketing, SEO, analytics, AI tools and integrations."
 sidebar:
   order: 2
 ---
 
 Epsilos e-commerce packages cover everything needed to run an online store, from
 catalog and checkout to marketing, analytics and third-party integrations. Feature
-availability varies by package tier — see [Pricing](/pricing/packages).
+availability varies by package tier; see [Pricing](/pricing/packages).
 
 ## Products and catalog
 
 - Product, category and brand management
-- Advanced variants (size, color, material, etc. — each with its own price, stock
+- Advanced variants (size, color, material, etc.), each with its own price, stock
   and images)
 - Bulk product upload
 - Excel and XML import / export
@@ -53,7 +53,7 @@ availability varies by package tier — see [Pricing](/pricing/packages).
 ## Marketing and conversion
 
 - Discount and coupon system (percentage or fixed amount, product-scoped)
-- Abandoned cart recovery — automated reminder emails with a personalised one-time
+- Abandoned cart recovery: automated reminder emails with a personalised one-time
   discount code
 - Product reviews and ratings
 - Google Ads and social ad (Meta / Instagram / Facebook) support and campaign setup
@@ -70,10 +70,10 @@ availability varies by package tier — see [Pricing](/pricing/packages).
 
 ## Integrations
 
-- **Marketplace integrations** — sync catalog, stock and orders with major
+- **Marketplace integrations.** Sync catalog, stock and orders with major
   international marketplaces from one panel
-- **ERP and accounting integrations** — connect major ERP and accounting systems
-- **Shipping / carrier integrations** — rates, labels and tracking
+- **ERP and accounting integrations.** Connect major ERP and accounting systems
+- **Shipping / carrier integrations.** Rates, labels and tracking
 - **e-invoicing / e-document integration**
 - **CDN delivery**
 
@@ -94,7 +94,7 @@ For selling across borders, see [Cross-border and e-export](/features/cross-bord
 
 ## Hosting and operations
 
-- Managed hosting with SSL and regular backups — or deploy on partner data centers
+- Managed hosting with SSL and regular backups, or deploy on partner data centers
   or your own servers (Windows or Linux) through the licence system
 - Email hosting (POP3 / IMAP)
 

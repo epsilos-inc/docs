@@ -6,7 +6,7 @@ sidebar:
 ---
 
 Epsilos ([epsilos.com](https://www.epsilos.com)), her ölçekten işletmeye **e-ticaret mağazaları** ve **hazır web sitesi** çözümleri sunar. Müşteri bir
-pakete abone olur, kullanıma hazır bir web sitesi elde eder ve her şeyi yönetim panelinden yönetir — teknik bilgi birikimi gerekmez. 
+pakete abone olur, kullanıma hazır bir web sitesi elde eder ve her şeyi yönetim panelinden yönetir; teknik bilgi birikimi gerekmez. 
 
 Shopify, WooCommerce ve Wix tabanlı mağazalarla aynı kategoridedir: müşteri isterse,
 mağazasını veya sitesini tarayıcı üzerinden kendisi kurabilir. Talep doğrultusunda Epsilos ekibi 
@@ -22,7 +22,7 @@ yanısıra, **yüksek trafikli** e-ticaret paketleri, **B2B** sistemleri ve **E-
 **Barındırma esnektir.** Epsilos varsayılan olarak altyapıyı Epsilos'a ait sunucularda yönetilen
 hizmet olarak işletir; müşteri tarafından kurulacak veya bakımı yapılacak bir şey yoktur. Güncelleme, yedekleme gibi görevler Epsilos tarafından yapılır. Daha fazla
 kontrole ihtiyaç duyduğunuzda aynı platform, partner veri merkezlerinde, farklı bir
-hosting sağlayıcısında veya kendi sunucularınızda da çalışabilir — **Epsilos lisans sistemi**,
+hosting sağlayıcısında veya kendi sunucularınızda da çalışabilir; **Epsilos lisans sistemi**,
 Epsilos'u kendi altyapınızda çalıştırmanıza imkân tanır. Bu açıdan diğer e-ticaret yazılım firmalarından 
 daha fazla esneklik ve kontrol sağlar. 
 
@@ -73,7 +73,7 @@ kiracılı (multi-tenant) bir platformdur:
 - **Vitrin:** SEO ve hızlı ilk yükleme için sunucu tarafında render edilir,
   JavaScript ile aşamalı zenginleştirilir.
 - **Çok kiracılılık:** her mağaza **kendi izole veritabanı ve uygulama havuzuyla**
-  çalışır — kiracı verisi bir filtre sütunuyla değil, tasarım gereği ayrıdır.
+  çalışır: kiracı verisi bir filtre sütunuyla değil, tasarım gereği ayrıdır.
 - **Dağıtım:** Epsilos tarafından tamamen yönetilen şekilde ya da partner veri
   merkezlerinde veya kendi sunucularınızda çalıştırılır. Lisans sistemi
   kendi-sunucunuzda ve partner-barındırmalı kurulumları mümkün kılar.

@@ -1,12 +1,12 @@
 ---
 title: Web Sitesi özellikleri
-description: Epsilos hazır web sitesi paketlerinin tam özellik seti — görsel sayfa oluşturucu, blog, temalar, SEO, çoklu dil, yapay zeka araçları ve entegrasyonlar.
+description: "Epsilos hazır web sitesi paketlerinin tam özellik seti: görsel sayfa oluşturucu, blog, temalar, SEO, çoklu dil, yapay zeka araçları ve entegrasyonlar."
 sidebar:
   order: 3
 ---
 
 Hazır Web Sitesi paketleri, çevrimiçi mağaza olmadan kurumsal ve tanıtım siteleri
-içindir. Özelliklerin kullanılabilirliği paket kademesine göre değişir —
+içindir. Özelliklerin kullanılabilirliği paket kademesine göre değişir;
 [Fiyatlandırma](/tr/pricing/packages) sayfasına bakın.
 
 ## Görsel sayfa oluşturucu
@@ -18,7 +18,7 @@ içindir. Özelliklerin kullanılabilirliği paket kademesine göre değişir �
   sayaçları, iletişim formları, sosyal medya widget'ları, haritalar, sekme
   panelleri ve daha fazlası
 - Tasarım sihirbazı ve hazır bölümler
-- Satır içi düzenleme — canlı sayfada bileşenler üzerinde düzenleme kontrolleri
+- Satır içi düzenleme: canlı sayfada bileşenler üzerinde düzenleme kontrolleri
 - Yeniden kullanılabilir header / footer bölümleri
 - Menü / navigasyon oluşturucu
 
@@ -63,14 +63,14 @@ içindir. Özelliklerin kullanılabilirliği paket kademesine göre değişir �
 ## Entegrasyonlar ve genişletilebilirlik
 
 - Google Ads kampanya kurulumu
-- Özel kod ekleme alanları (head, `</head>` öncesi, `</body>` öncesi) — GTM,
+- Özel kod ekleme alanları (head, `</head>` öncesi, `</body>` öncesi): GTM,
   sohbet widget'ları vb. için
 - SMTP e-posta
 
 ## Barındırma ve operasyon
 
 - SSL, e-posta hesapları (POP3 / IMAP) ve haftalık / aylık yedeklemeli yönetilen
-  barındırma — veya lisans sistemi aracılığıyla kendi altyapınızda kurulum
+  barındırma, ya da lisans sistemi aracılığıyla kendi altyapınızda kurulum
 
 ## Destek
 

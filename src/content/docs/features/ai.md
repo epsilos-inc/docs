@@ -1,24 +1,24 @@
 ---
 title: AI tools
-description: In Epsilos, AI is not a chat box bolted onto the panel — the tools are built into the admin workflow. An agentic AI editor in the admin bar, content and SEO tools, and a multi-provider backend.
+description: "In Epsilos, AI is not a chat box bolted onto the panel: the tools are built into the admin workflow. An agentic AI editor in the admin bar, content and SEO tools, and a multi-provider backend."
 sidebar:
   order: 6
 ---
 
 In Epsilos, AI is not a chat box stuck in the corner of the panel. The AI tools are
-built into the admin workflow and, where it matters most, they work **agentically** —
+built into the admin workflow and, where it matters most, they work **agentically**:
 they don't just suggest text, they do the work.
 
 ## The AI editor in the admin bar (agentic)
 
 Opened from the live editor bar, the AI editor **designs the front-end from your
 prompt and writes the result into the page's header, footer and content areas
-itself** — no manual copy-paste.
+itself**, no manual copy-paste.
 
 - **Works with tools:** it reads the page's zones, edits them, and writes to the
   theme CSS when needed.
-- **Efficient by design:** the context that builds up from the first message —
-  system instructions, page content, earlier steps — is **cached**, so each turn
+- **Efficient by design:** the context that builds up from the first message
+  (system instructions, page content, earlier steps) is **cached**, so each turn
   does not reprocess everything and pays only for what is new. Small changes use
   targeted text replacement instead of regenerating the whole page, and the agent
   does not re-read a zone it already wrote in the same session. Per-turn cost stays
@@ -56,7 +56,7 @@ available).
 
 ## Purpose
 
-AI's job here is to remove repetitive work — not to replace the person. That is why
+AI's job here is to remove repetitive work, not to replace the person. That is why
 every generation is **draft first**, then **approval**, then **reversible**. Cost is
 shown openly and the [changelog](/changelog) is public. The AI works with Epsilos's
 **modernized architecture** (see [What is Epsilos?](/getting-started/what-is-epsilos)):

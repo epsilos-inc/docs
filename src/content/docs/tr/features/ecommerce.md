@@ -1,19 +1,19 @@
 ---
 title: E-Ticaret özellikleri
-description: Epsilos e-ticaret paketlerinin tam özellik seti — ürün yönetimi, ödeme, pazaryerleri, kargo, pazarlama, SEO, analitik, yapay zeka araçları ve entegrasyonlar.
+description: "Epsilos e-ticaret paketlerinin tam özellik seti: ürün yönetimi, ödeme, pazaryerleri, kargo, pazarlama, SEO, analitik, yapay zeka araçları ve entegrasyonlar."
 sidebar:
   order: 2
 ---
 
 Epsilos e-ticaret paketleri, katalog ve ödemeden pazarlama, analitik ve üçüncü
 taraf entegrasyonlara kadar bir çevrimiçi mağaza yürütmek için gereken her şeyi
-kapsar. Özelliklerin kullanılabilirliği paket kademesine göre değişir —
+kapsar. Özelliklerin kullanılabilirliği paket kademesine göre değişir;
 [Fiyatlandırma](/tr/pricing/packages) sayfasına bakın.
 
 ## Ürün ve katalog
 
 - Ürün, kategori ve marka yönetimi
-- Gelişmiş varyasyonlar (beden, renk, malzeme vb. — her biri kendi fiyatı, stoğu
+- Gelişmiş varyasyonlar (beden, renk, malzeme vb.), her biri kendi fiyatı, stoğu
   ve görselleriyle)
 - Toplu ürün yükleme
 - Excel ve XML içe / dışa aktarma
@@ -54,7 +54,7 @@ kapsar. Özelliklerin kullanılabilirliği paket kademesine göre değişir —
 ## Pazarlama ve dönüşüm
 
 - İndirim ve kupon sistemi (yüzde veya sabit tutar, ürün bazlı)
-- Sepet hatırlatma — kişiye özel tek kullanımlık indirim kodlu otomatik hatırlatma
+- Sepet hatırlatma: kişiye özel tek kullanımlık indirim kodlu otomatik hatırlatma
   e-postaları
 - Ürün yorumları ve puanlama
 - Google Ads ve sosyal reklam (Meta / Instagram / Facebook) desteği ve kampanya
@@ -113,7 +113,7 @@ sayfasına bakın.
 
 ## Barındırma ve operasyon
 
-- SSL ve düzenli yedeklemeli yönetilen barındırma — veya lisans sistemi aracılığıyla
+- SSL ve düzenli yedeklemeli yönetilen barındırma, ya da lisans sistemi aracılığıyla
   partner veri merkezlerinde ya da kendi sunucularınızda (Windows veya Linux) kurulum
 - E-posta barındırma (POP3 / IMAP)
 

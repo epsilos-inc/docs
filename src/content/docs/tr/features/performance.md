@@ -1,6 +1,6 @@
 ---
 title: Performans
-description: Epsilos vitrinleri ve web siteleri hız için kurulur — sunucu-render, CDN destekli, otomatik görsel optimizasyonu. Gerçek Core Web Vitals ve Lighthouse verisi.
+description: "Epsilos vitrinleri ve web siteleri hız için kurulur: sunucu-render, CDN destekli, otomatik görsel optimizasyonu. Gerçek Core Web Vitals ve Lighthouse verisi."
 sidebar:
   order: 4
 ---
@@ -9,7 +9,7 @@ Epsilos siteleri hızlı yüklenmek üzere kurulur. Vitrin, hızlı ilk boyama i
 sunucu tarafında render edilir; statik dosyalar global CDN'den servis edilir;
 görseller otomatik optimize edilir; sayfalar hem edge'de hem uygulamada cache'lenir.
 
-## Gerçek veri — epsilos.com.tr
+## Gerçek veri: epsilos.com.tr
 
 epsilos.com.tr'nin kendisi Epsilos platformu üzerinde kuruludur (kurumsal web sitesi
 teması). [PageSpeed Insights](https://pagespeed.web.dev/), masaüstü:
@@ -22,7 +22,7 @@ teması). [PageSpeed Insights](https://pagespeed.web.dev/), masaüstü:
 | SEO | **100** / 100 |
 | Agentic browsing | **3** / 3 |
 
-**Core Web Vitals — alan verisi (gerçek Chrome kullanıcıları), masaüstü: geçiyor**
+**Core Web Vitals, alan verisi (gerçek Chrome kullanıcıları), masaüstü: geçiyor**
 
 | Metrik | Değer | Eşik |
 | --- | :---: | :---: |
@@ -34,26 +34,26 @@ Lab metrikleri (masaüstü): First Contentful Paint 0.8 sn · Largest Contentful
 0.9 sn · Total Blocking Time 100 ms · Cumulative Layout Shift 0.013 · Speed Index
 1.1 sn.
 
-![epsilos.com.tr masaüstü PageSpeed Insights raporu — Performance 97, Accessibility 95, Best Practices 100, SEO 100, Agentic Browsing 3/3](/img/pagespeed-epsilos-com-tr.png)
+![epsilos.com.tr masaüstü PageSpeed Insights raporu: Performance 97, Accessibility 95, Best Practices 100, SEO 100, Agentic Browsing 3/3](/img/pagespeed-epsilos-com-tr.png)
 
 ## Epsilos sitelerini hızlı kılan ne
 
-- **Sunucu-render vitrin** — HTML sunucuda render edilir, ilk boyama JavaScript'i
+- **Sunucu-render vitrin.** HTML sunucuda render edilir, ilk boyama JavaScript'i
   beklemez.
-- **Global CDN** — CSS, JavaScript, font ve görseller ziyaretçiye yakın edge
+- **Global CDN.** CSS, JavaScript, font ve görseller ziyaretçiye yakın edge
   konumlarından servis edilir.
-- **Otomatik görsel optimizasyonu** — yüklenen görseller yeniden boyutlandırılır ve
+- **Otomatik görsel optimizasyonu.** Yüklenen görseller yeniden boyutlandırılır ve
   kodlanır; her düzen alanı ihtiyacı olan boyutu ister.
-- **Sayfa ve fragment cache** — çözülmüş sayfalar ve yeniden kullanılan bölümler
+- **Sayfa ve fragment cache.** Çözülmüş sayfalar ve yeniden kullanılan bölümler
   cache'lenir, isteklerin çoğu veritabanı işini atlar.
-- **Hafif ön yüz** — vitrin minimal JavaScript gönderir; etkileşimli kısımlar
+- **Hafif ön yüz.** Vitrin minimal JavaScript gönderir; etkileşimli kısımlar
   aşamalı zenginleştirilir.
 
 ## Skor neden 100 değil
 
 PageSpeed genellikle birkaç **render-blocking CSS ve JavaScript isteği** işaretler.
 Skoru daha da yükseltmek mümkün: tüm stil ve script dosyaları tek dosyada
-birleştirilebilir ya da doğrudan sayfa koduna gömülebilir — bunu isteyen site
+birleştirilebilir ya da doğrudan sayfa koduna gömülebilir; bunu isteyen site
 sahibi, özel kod alanları üzerinden istediği zaman yapabilir.
 
 Epsilos varsayılan olarak bunu bilerek yapmaz. Stil ve script'leri ayrı,
@@ -66,8 +66,8 @@ kullanıcılar için zaten mükemmel bir sonuçtur; bu nedenle tam 100 peşinde 
 ## Kendiniz ölçün
 
 Herhangi bir Epsilos sitesinde [PageSpeed Insights](https://pagespeed.web.dev/)
-çalıştırın — bir [demo mağaza](https://www.epsilos.com.tr/installer) veya
-epsilos.com.tr — ya da Chrome DevTools'tan Lighthouse.
+çalıştırın: bir [demo mağaza](https://www.epsilos.com.tr/installer) veya
+epsilos.com.tr, ya da Chrome DevTools'tan Lighthouse.
 
 > Skorlar ölçüm anındaki belirli bir sayfa, cihaz ve ağ koşulunu yansıtır ve
 > değişir. Core Web Vitals alan verisi görünmek için yeterli gerçek Chrome

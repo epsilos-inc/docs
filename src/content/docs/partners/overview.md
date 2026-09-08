@@ -11,22 +11,22 @@ ecosystem.
 ## Reseller program
 
 Authorised Epsilos resellers sell Epsilos packages to their own clients and manage
-their entire client portfolio from a dedicated reseller panel — no servers or
+their entire client portfolio from a dedicated reseller panel, with no servers or
 manual provisioning on your side.
 
 ### What the reseller panel provides
 
-- **Automated demo setup** — spin up a demo site for a prospect in one step, with a
+- **Automated demo setup.** Spin up a demo site for a prospect in one step, with a
   theme preselected and ready to present.
-- **Automated full installation** — provision a complete, licensed package for a
+- **Automated full installation.** Provision a complete, licensed package for a
   paying client without any manual server work.
-- **Client portfolio** — every client, site and package in one list.
-- **Licence and duration tracking** — each client's licence status, start and
+- **Client portfolio.** Every client, site and package in one list.
+- **Licence and duration tracking.** Each client's licence status, start and
   expiry dates, and upcoming renewals at a glance.
-- **Renewals and upgrades** — extend a licence or change a client's package from
+- **Renewals and upgrades.** Extend a licence or change a client's package from
   the panel.
-- **Priority support** — a dedicated support channel for reseller-managed accounts.
-- **Multi-language** — the reseller panel and the client-facing emails are
+- **Priority support.** A dedicated support channel for reseller-managed accounts.
+- **Multi-language.** The reseller panel and the client-facing emails are
   available in multiple languages.
 
 ### How it works

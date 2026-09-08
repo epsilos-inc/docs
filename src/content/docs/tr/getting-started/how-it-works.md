@@ -1,6 +1,6 @@
 ---
 title: Nasıl çalışır? (Kurulum modeli)
-description: Epsilos tamamen yönetilen bir hizmettir — barındırma, sunucu, güncelleme ve yedekleme Epsilos'ta; içerik, ürün ve tasarım yönetimi tarayıcı tabanlı panelde.
+description: "Epsilos tamamen yönetilen bir hizmettir: barındırma, sunucu, güncelleme ve yedekleme Epsilos'ta; içerik, ürün ve tasarım yönetimi tarayıcı tabanlı panelde."
 sidebar:
   order: 3
 ---
@@ -33,15 +33,15 @@ Tarayıcı tabanlı yönetim paneli üzerinden:
 
 ## Tipik başlangıç akışı
 
-1. **Ücretsiz demo** — [epsilos.com](https://www.epsilos.com) adresinden demo
+1. **Ücretsiz demo.** [epsilos.com](https://www.epsilos.com) adresinden demo
    hesabı açılır, ekipten kişiye özel sunum alınır.
-2. **Paket seçimi** — ihtiyaca göre e-ticaret veya hazır web sitesi paketi seçilir.
-3. **Kurulum** — site, Epsilos ekibi tarafından hazırlanabilir, dahili kurulum
+2. **Paket seçimi.** Ihtiyaca göre e-ticaret veya hazır web sitesi paketi seçilir.
+3. **Kurulum.** Site, Epsilos ekibi tarafından hazırlanabilir, dahili kurulum
    sihirbazı ile kullanıcının kendisi tarafından yapılabilir veya bir partner
    hosting firmasının panelinden (Plesk ya da cPanel) otomatik olarak kurulabilir.
    Alan adı bu adımda bağlanır.
-4. **Yapılandırma** — tema seçilir, içerik ve ürünler panelden girilir.
-5. **Yayın** — site canlıya alınır. Bundan sonrası tamamen self-servistir.
+4. **Yapılandırma.** Tema seçilir, içerik ve ürünler panelden girilir.
+5. **Yayın.** Site canlıya alınır. Bundan sonrası tamamen self-servistir.
 
 ## Alan adı
 
@@ -51,7 +51,7 @@ tescil ettirebilirsiniz.
 ## Sık sorulan: "Kodu biz mi barındırıyoruz?"
 
 Hayır. Standart e-ticaret ve hazır web sitesi paketlerinde barındırma tamamen
-Epsilos'tadır — kendi sunucunuza kurulum yapmanız gerekmez ve bir DevOps ekibine
+Epsilos'tadır. Kendi sunucunuza kurulum yapmanız gerekmez ve bir DevOps ekibine
 ihtiyaç duymazsınız. Bayi ve özel kurumsal senaryolar için farklı modeller
 mevcuttur; bunun için [bayi programına](/tr/partners/overview) veya satış ekibine
 başvurun.

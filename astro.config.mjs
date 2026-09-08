@@ -58,7 +58,7 @@ export default defineConfig({
 		starlight({
 			title: 'Epsilos',
 			description:
-				'Epsilos e-commerce and corporate website platform — official knowledge base, deployment model, features and comparisons.',
+				'Epsilos e-commerce and corporate website platform - official knowledge base, deployment model, features and comparisons.',
 			logo: {
 				light: './src/assets/epsilos-logo.svg',
 				dark: './src/assets/epsilos-logo-light.svg',
@@ -70,7 +70,7 @@ export default defineConfig({
 				starlightLlmsTxt({
 					projectName: 'Epsilos',
 					description:
-						'Managed e-commerce and corporate website platform — visual drag-and-drop page builder, themes for 30+ sectors, multi-language and multi-currency, B2B and B2C, marketplace and ERP integrations. Run fully managed by Epsilos or self-hosted through the licence system.',
+						'Managed e-commerce and corporate website platform - visual drag-and-drop page builder, themes for 30+ sectors, multi-language and multi-currency, B2B and B2C, marketplace and ERP integrations. Run fully managed by Epsilos or self-hosted through the licence system.',
 					details: [
 						'- **What it is:** a managed platform for e-commerce stores and corporate/showcase websites, managed from one visual admin panel. No technical knowledge required.',
 						'- **Hosting:** fully managed by Epsilos by default, or deployed on partner data centers or your own servers through the licence system.',
@@ -116,7 +116,7 @@ export default defineConfig({
 					tag: 'link',
 					attrs: { rel: 'icon', href: '/favicon.ico', sizes: '32x32' },
 				},
-				// llms.txt keşfi — konvansiyonel yol /llms.txt; ayrica link ipucu.
+				// llms.txt keşfi - konvansiyonel yol /llms.txt; ayrica link ipucu.
 				{
 					tag: 'link',
 					attrs: {

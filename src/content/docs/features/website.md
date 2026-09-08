@@ -1,12 +1,12 @@
 ---
 title: Website features
-description: The full feature set of Epsilos ready website packages — visual page builder, blog, themes, SEO, multi-language, AI tools and integrations.
+description: "The full feature set of Epsilos ready website packages: visual page builder, blog, themes, SEO, multi-language, AI tools and integrations."
 sidebar:
   order: 3
 ---
 
 Ready Website packages are for corporate and showcase sites without an online store.
-Feature availability varies by package tier — see [Pricing](/pricing/packages).
+Feature availability varies by package tier; see [Pricing](/pricing/packages).
 
 ## Visual page builder
 
@@ -16,7 +16,7 @@ Feature availability varies by package tier — see [Pricing](/pricing/packages)
   heading and text blocks, video popups, pricing tables, countdown timers, contact
   forms, social media widgets, maps, tab panels and more
 - Design wizard and ready-made sections
-- Inline editing — edit controls on components directly on the live page
+- Inline editing: edit controls on components directly on the live page
 - Reusable header / footer sections
 - Menu / navigation builder
 
@@ -61,14 +61,14 @@ Feature availability varies by package tier — see [Pricing](/pricing/packages)
 ## Integrations and extensibility
 
 - Google Ads campaign setup
-- Custom code injection slots (head, before `</head>`, before `</body>`) — for GTM,
+- Custom code injection slots (head, before `</head>`, before `</body>`) for GTM,
   chat widgets, etc.
 - SMTP email
 
 ## Hosting and operations
 
 - Managed hosting with SSL, email accounts (POP3 / IMAP) and weekly / monthly
-  backups — or deploy on your own infrastructure through the licence system
+  backups, or deploy on your own infrastructure through the licence system
 
 ## Support
 

@@ -1,4 +1,4 @@
-/* Epsilos marka temasi — epsilos.com.tr + market.epsilos.com tasarim dili:
+/* Epsilos marka temasi - epsilos.com.tr + market.epsilos.com tasarim dili:
    Sora (baslik) / Manrope (govde), violet accent, dusuk-kroma notrler (hue ~285).
    Starlight'in layout'u (sidebar, ToC, arama, mobil) korunur; sadece token'lar. */
 
@@ -17,7 +17,7 @@
 	--sl-color-gray-6: oklch(0.24 0.02 285);
 	--sl-color-black: oklch(0.16 0.017 285);
 
-	/* Epsilos gradyan — buton / hero */
+	/* Epsilos gradyan - buton / hero */
 	--epsilos-grad: linear-gradient(
 		120deg,
 		oklch(0.55 0.21 286) 0%,
@@ -27,6 +27,7 @@
 
 	/* Tipografi */
 	--sl-font: 'Manrope', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
 }
 
 /* ================= ACIK TEMA ================= */
@@ -46,15 +47,40 @@
 	--sl-color-black: oklch(0.985 0.006 285);
 }
 
-/* ---- Basliklar: Sora ---- */
+/* ---- Basliklar: Sora, kompakt ---- */
 :is(h1, h2, h3, h4, h5, h6),
 .sl-markdown-content :is(h1, h2, h3, h4, h5, h6) {
 	font-family: 'Sora', var(--sl-font);
 	letter-spacing: -0.02em;
 	font-weight: 700;
+	line-height: 1.25;
+}
+.sl-markdown-content :is(h3, h4, h5, h6) {
+	font-weight: 600;
 }
 :is(h1, h2, h3) {
 	text-wrap: balance;
+}
+
+/* Baslik boyutlari - Starlight varsayilanindan daha kompakt (Sora iri duruyor).
+   !important: Starlight'in --sl-text-h* token'lari kaynak sirasi/media query
+   yuzunden guvenilir ezilmiyor. */
+h1#_top,
+.sl-markdown-content h1 {
+	font-size: 2rem !important;
+}
+.sl-markdown-content h2 {
+	font-size: 1.6rem !important;
+}
+.sl-markdown-content h3 {
+	font-size: 1.15rem !important;
+}
+.sl-markdown-content h4 {
+	font-size: 1rem !important;
+}
+.sl-markdown-content h5,
+.sl-markdown-content h6 {
+	font-size: 0.9rem !important;
 }
 
 /* ---- Cila ---- */
@@ -64,7 +90,7 @@ starlight-aside,
 	border-radius: 12px;
 }
 
-/* Splash hero — birincil CTA Epsilos gradyani */
+/* Splash hero - birincil CTA Epsilos gradyani */
 .hero .actions a.primary,
 a.action.primary {
 	background: var(--epsilos-grad);
@@ -76,7 +102,7 @@ a.action.primary:hover {
 	filter: brightness(1.06);
 }
 
-/* Footer llms.txt notu — marka nötrüne otur */
+/* Footer llms.txt notu - marka nötrüne otur */
 .epsilos-llms-note {
 	color: var(--sl-color-gray-3);
 }

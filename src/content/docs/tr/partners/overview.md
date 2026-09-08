@@ -10,23 +10,23 @@ Epsilos, ekosisteminde iş yapmak isteyenler için iki ortaklık programı sunar
 ## Bayi programı
 
 Yetkili Epsilos bayileri, Epsilos paketlerini kendi müşterilerine satar ve tüm
-müşteri portföyünü özel bir bayi panelinden yönetir — sizin tarafınızda sunucu
+müşteri portföyünü özel bir bayi panelinden yönetir; sizin tarafınızda sunucu
 veya manuel kurulum işi yok.
 
 ### Bayi paneli neler sağlar
 
-- **Otomatik demo kurma** — bir aday müşteri için tek adımda, teması önceden
+- **Otomatik demo kurma.** Bir aday müşteri için tek adımda, teması önceden
   seçilmiş, sunuma hazır bir demo site açın.
-- **Otomatik tam kurulum** — ödeme yapan bir müşteri için hiçbir manuel sunucu işi
+- **Otomatik tam kurulum.** Ödeme yapan bir müşteri için hiçbir manuel sunucu işi
   olmadan eksiksiz, lisanslı bir paket kurun.
-- **Müşteri portföyü** — her müşteri, site ve paket tek listede.
-- **Lisans ve süre takibi** — her müşterinin lisans durumu, başlangıç ve bitiş
+- **Müşteri portföyü.** Her müşteri, site ve paket tek listede.
+- **Lisans ve süre takibi.** Her müşterinin lisans durumu, başlangıç ve bitiş
   tarihleri ve yaklaşan yenilemeler tek bakışta.
-- **Yenileme ve yükseltme** — panelden lisans süresini uzatın veya müşterinin
+- **Yenileme ve yükseltme.** Panelden lisans süresini uzatın veya müşterinin
   paketini değiştirin.
-- **Öncelikli destek** — bayi tarafından yönetilen hesaplar için ayrı bir destek
+- **Öncelikli destek.** Bayi tarafından yönetilen hesaplar için ayrı bir destek
   kanalı.
-- **Çoklu dil** — bayi paneli ve müşteriye giden e-postalar birden fazla dilde.
+- **Çoklu dil.** Bayi paneli ve müşteriye giden e-postalar birden fazla dilde.
 
 ### Nasıl çalışır
 

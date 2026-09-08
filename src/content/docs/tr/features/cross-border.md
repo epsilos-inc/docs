@@ -1,30 +1,30 @@
 ---
 title: Sınır ötesi ve e-ihracat
-description: Tek Epsilos mağazasından yurt dışına satış — çoklu dil, çoklu para birimi, bölgesel ödeme altyapıları, ülke ve bölge ayarları, bölgesel kargo ve bölgesel vergi. B2C ve B2B'de çalışır.
+description: "Tek Epsilos mağazasından yurt dışına satış: çoklu dil, çoklu para birimi, bölgesel ödeme altyapıları, ülke ve bölge ayarları, bölgesel kargo ve bölgesel vergi. B2C ve B2B'de çalışır."
 sidebar:
   order: 5
 ---
 
 Epsilos e-ticaret paketleri, tek mağazadan sınır ötesi satış için gerekenleri
-içerir — ayrı bir "e-ihracat" sürümü yoktur.
+içerir; ayrı bir "e-ihracat" sürümü yoktur.
 
 ## Neler var
 
-- **Çoklu dil vitrin ve ödeme akışı** — içerik, ürün verisi ve ödeme akışı her
+- **Çoklu dil vitrin ve ödeme akışı.** Içerik, ürün verisi ve ödeme akışı her
   dilde; tarayıcı diline göre otomatik yönlendirme ve sağdan sola (RTL) desteği.
-- **Çoklu para birimi fiyatlandırma** — fiyatlar ziyaretçinin para biriminde
+- **Çoklu para birimi fiyatlandırma.** Fiyatlar ziyaretçinin para biriminde
   canlı kurla gösterilip tahsil edilir veya pazara göre kendi belirlediğiniz sabit
   fiyatlar.
-- **Bölgesel ödeme altyapıları** — sattığınız her pazarda önemli olan ödeme
+- **Bölgesel ödeme altyapıları.** Sattığınız her pazarda önemli olan ödeme
   yöntemlerini bağlayın.
-- **Ülke ve bölge ayarları** — hangi ülkelere sattığınızı yönetin, davranışı
+- **Ülke ve bölge ayarları.** Hangi ülkelere sattığınızı yönetin, davranışı
   bölgeye göre değiştirin.
-- **Bölgesel kargo** — hedefe göre taşıyıcı seçenekleri ve ücretleri.
-- **Bölgesel vergi** — ülke veya bölgeye göre vergi kuralları ve oranları.
+- **Bölgesel kargo.** Hedefe göre taşıyıcı seçenekleri ve ücretleri.
+- **Bölgesel vergi.** Ülke veya bölgeye göre vergi kuralları ve oranları.
 
 ## B2C ve B2B
 
-Yukarıdakilerin tümü **B2B vitrini** için de aynı şekilde çalışır — bayi ve toptan
+Yukarıdakilerin tümü **B2B vitrini** için de aynı şekilde çalışır: bayi ve toptan
 fiyatlandırma, pazara göre para birimi ve ödeme yöntemleri, bölgeye özel kataloglar.
 
 ## Ayrıca bakın

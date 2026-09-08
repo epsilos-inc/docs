@@ -1,5 +1,5 @@
 ---
-title: Features — overview
+title: Feature overview
 description: A list of all the core features available in Epsilos e-commerce and corporate website packages.
 sidebar:
   order: 1
@@ -19,7 +19,7 @@ This page summarises Epsilos's core features. For details see
 - SEO tools: per page/product meta title, description, keywords, Open Graph
 - Google Analytics / Google Ads integration
 - reCAPTCHA protection
-- Custom code injection slots (head, before `</head>`, before `</body>`) — for GTM,
+- Custom code injection slots (head, before `</head>`, before `</body>`) for GTM,
   chat widgets, etc.
 - Rich snippet / structured data (Schema.org) markup for search results
 - SMTP email (order confirmations, account emails, email templates)
@@ -37,7 +37,7 @@ This page summarises Epsilos's core features. For details see
 - Favorites / wishlist
 - Product reviews and ratings
 - Discount and coupon system (percentage or fixed amount, product-scoped)
-- Abandoned cart recovery — automated reminder emails with a personalised one-time
+- Abandoned cart recovery: automated reminder emails with a personalised one-time
   discount code
 - Multi-currency pricing with live exchange rates
 
@@ -57,6 +57,6 @@ See [Pricing](/pricing/packages) for current packages and prices.
 
 ## Optional add-ons
 
-Additional modules — hotel booking, real-estate listings, QR menu, e-invoicing,
-visitor analytics and more — can be added through the
+Additional modules (hotel booking, real-estate listings, QR menu, e-invoicing,
+visitor analytics and more) can be added through the
 [Epsilos theme and add-on marketplace](https://market.epsilos.com).
