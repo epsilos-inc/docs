@@ -23,7 +23,7 @@ where you sell — try any shortlist with a demo before committing.
 | Platform | In short |
 | --- | --- |
 | **İkas** | A managed e-commerce platform with a modern admin and a growing feature set, focused on online retail. |
-| **İdeasoft** | An established e-commerce platform with a deep retail feature set and a long track record. |
+| **İdeasoft** | An established e-commerce platform with a deep retail feature set, a dedicated e-export offering, a first-party add-on marketplace and a long track record. |
 
 ## Feature comparison
 
@@ -36,11 +36,13 @@ where you sell — try any shortlist with a demo before committing.
 | Automated self-install (wizard / partner panel) | ✓ | ✗ | ✗ | ~ | ✗ | ✗ |
 | Live visual page builder | ✓ | ~ | ✓ | ~ | ~ | ~ |
 | Theme customization / custom design | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| White-label — remove platform branding | ✓ | ~ | ~ | ✓ | ~ | ~ |
 | Store **and** corporate / CMS site in one | ✓ | ~ | ✓ | ✓ | ~ | ~ |
-| Multi-language & multi-currency | ✓ | ✓ | ✓ | ~ | ✓ | ~ |
-| Cross-border / export commerce | ✓ | ✓ | ~ | ~ | ✓ | ~ |
+| Multi-language & multi-currency | ✓ | ✓ | ✓ | ~ | ✓ | ✓ |
+| Cross-border / export commerce | ✓ | ✓ | ~ | ~ | ✓ | ✓ |
 | B2B / wholesale | ✓ | ~ | ~ | ~ | ✓ | ✓ |
-| Add-on / extension marketplace | ✓ | ✓ | ✓ | ✓ | ~ | ~ |
+| Add-on / theme marketplace | ✓ | ✓ | ✓ | ✓ | ~ | ✓ |
+| Open ecosystem — third parties publish and sell add-ons / themes | ✓ | ✓ | ✓ | ✓ | ~ | ✗ |
 
 Legend: **✓** included &nbsp;·&nbsp; **~** partial, via add-ons, or on higher tiers &nbsp;·&nbsp; **✗** not available
 
@@ -58,7 +60,9 @@ Legend: **✓** included &nbsp;·&nbsp; **~** partial, via add-ons, or on higher
 - **B2B and wholesale** built in, alongside B2C.
 - **Vertical modules** — hotel booking, real-estate listings, QR menu, e-invoicing
   and more through the [add-on marketplace](https://market.epsilos.com).
-- **Reseller & designer programs** — build a business on top of Epsilos.
+- **Open ecosystem** — independent designers and developers can publish and sell
+  themes and add-ons, and resellers can build a business on top of Epsilos. Some
+  regional platforms keep their add-on marketplace first-party only.
 
 ## Where another platform may fit better
 

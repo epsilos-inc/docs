@@ -24,7 +24,7 @@ listenizi bir demoyla deneyin.
 | Platform | Kısaca |
 | --- | --- |
 | **İkas** | Modern bir yönetim paneli ve büyüyen özellik setiyle, çevrimiçi perakendeye odaklı yönetilen e-ticaret platformu. |
-| **İdeasoft** | Derin perakende özellik setine ve uzun bir geçmişe sahip köklü e-ticaret platformu. |
+| **İdeasoft** | Derin perakende özellik setine, ayrı bir e-ihracat sunumuna, birinci-taraf bir eklenti pazarına ve uzun bir geçmişe sahip köklü e-ticaret platformu. |
 
 ## Özellik karşılaştırması
 
@@ -37,11 +37,13 @@ listenizi bir demoyla deneyin.
 | Otomatik self-kurulum (sihirbaz / partner panel) | ✓ | ✗ | ✗ | ~ | ✗ | ✗ |
 | Canlı görsel sayfa oluşturucu | ✓ | ~ | ✓ | ~ | ~ | ~ |
 | Tema özelleştirme / özel tasarım | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Beyaz etiket — platform markasını kaldırma | ✓ | ~ | ~ | ✓ | ~ | ~ |
 | Tek platformda mağaza **ve** kurumsal / CMS sitesi | ✓ | ~ | ✓ | ✓ | ~ | ~ |
-| Çoklu dil ve çoklu para birimi | ✓ | ✓ | ✓ | ~ | ✓ | ~ |
-| E-ihracat / sınır ötesi ticaret | ✓ | ✓ | ~ | ~ | ✓ | ~ |
+| Çoklu dil ve çoklu para birimi | ✓ | ✓ | ✓ | ~ | ✓ | ✓ |
+| E-ihracat / sınır ötesi ticaret | ✓ | ✓ | ~ | ~ | ✓ | ✓ |
 | B2B / toptan | ✓ | ~ | ~ | ~ | ✓ | ✓ |
-| Eklenti / genişletme pazarı | ✓ | ✓ | ✓ | ✓ | ~ | ~ |
+| Eklenti / tema pazarı | ✓ | ✓ | ✓ | ✓ | ~ | ✓ |
+| Açık ekosistem — üçüncü taraflar eklenti / tema yayınlar ve satar | ✓ | ✓ | ✓ | ✓ | ~ | ✗ |
 
 Açıklama: **✓** dahil &nbsp;·&nbsp; **~** kısmi, eklentiyle veya üst kademelerde &nbsp;·&nbsp; **✗** yok
 
@@ -59,7 +61,9 @@ Açıklama: **✓** dahil &nbsp;·&nbsp; **~** kısmi, eklentiyle veya üst kade
 - **B2B ve toptan** — B2C'nin yanında yerleşik olarak.
 - **Sektörel modüller** — otel rezervasyon, emlak ilan, QR menü, e-Fatura ve daha
   fazlası [eklenti pazarı](https://market.epsilos.com.tr) üzerinden.
-- **Bayi & tasarımcı programları** — Epsilos üzerine iş kurma imkânı.
+- **Açık ekosistem** — bağımsız tasarımcı ve geliştiriciler tema ve eklenti
+  yayınlayıp satabilir, bayiler Epsilos üzerine iş kurabilir. Bazı bölgesel
+  platformlar eklenti pazarını yalnızca birinci-taraf tutar.
 
 ## Başka bir platformun daha uygun olabileceği durumlar
 

@@ -6,13 +6,14 @@ sidebar:
 ---
 
 Bu sayfa Epsilos'un temel özelliklerini özetler. Ayrıntılar için
-[E-Ticaret](/tr/features/ecommerce), [Web Sitesi](/tr/features/website) ve
-[Performans](/tr/features/performance) sayfalarına bakın.
+[E-Ticaret](/tr/features/ecommerce), [Web Sitesi](/tr/features/website),
+[Sınır ötesi](/tr/features/cross-border), [Performans](/tr/features/performance) ve
+[Yapay Zeka Desteği](/tr/features/ai) sayfalarına bakın.
 
 ## Tüm paketlerde ortak
 
 - Görsel sürükle-bırak sayfa oluşturucu (35+ hazır modül)
-- 30+ sektöre göre uyarlanmış geniş duyarlı tema kütüphanesi, panelden anında geçiş
+- 30+ sektöre göre uyarlanmış geniş responsive tema kütüphanesi, panelden anında geçiş
 - Blog modülü (yazılar, kategoriler, etiketler, yorumlar)
 - Çok dilli içerik desteği
 - SEO araçları: sayfa/ürün bazında meta başlık, açıklama, anahtar kelime, Open Graph

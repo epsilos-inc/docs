@@ -25,7 +25,7 @@ kapsar. Özelliklerin kullanılabilirliği paket kademesine göre değişir —
 
 - Hazır bölümler ve modüllerle görsel sürükle-bırak sayfa oluşturucu
 - Tasarım sihirbazı
-- 30+ sektöre göre uyarlanmış geniş duyarlı tema kütüphanesi
+- 30+ sektöre göre uyarlanmış geniş responsive tema kütüphanesi
 - Blog sistemi
 - RTL desteği ve tarayıcı diline göre otomatik yönlendirmeli çoklu dil sistemi
 - Canlı döviz kuruyla çoklu para birimi fiyatlandırma
@@ -72,11 +72,31 @@ kapsar. Özelliklerin kullanılabilirliği paket kademesine göre değişir —
 
 ## Entegrasyonlar
 
-- Pazaryeri entegrasyonları — kataloğunuzu üçüncü taraf pazaryerlerinde listeleyin
-- ERP entegrasyonları
-- Kargo / taşıyıcı entegrasyonları
-- e-Fatura entegrasyonu
+### Pazaryeri entegrasyonları
+
+Kataloğunuzu, stoğunuzu ve siparişlerinizi tek panelden pazaryerleriyle
+senkronize edin: **Trendyol, Hepsiburada, N11, Pazarama, Amazon, Çiçeksepeti**
+ve daha fazlası.
+
+### ERP ve muhasebe entegrasyonları
+
+- **Ön muhasebe:** Luca Net, Logo İşbaşı, Paraşüt
+- **Muhasebe / ERP:** Dia, Eta, Gizsoft, Luca Koza, Logo Wings, Logo Go 3,
+  Logo Tiger, Mikro, Nebim V3, Nebim Winner, Netsis, Uyumsoft GirusTicari,
+  Wolvox, Zirve
+
+### Kargo entegrasyonları
+
+Yurtiçi Kargo, Aras Kargo, Sürat Kargo, PTT Kargo, HepsiJET, Kolay Gelsin,
+Sendeo, UPS, DHL eCommerce.
+
+### Diğer
+
+- e-Fatura / e-Belge entegrasyonu
 - CDN yayını
+
+Sınır ötesi satış için [Sınır ötesi ve e-ihracat](/tr/features/cross-border)
+sayfasına bakın.
 
 ## Yapay zeka araçları
 

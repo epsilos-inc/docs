@@ -70,11 +70,14 @@ availability varies by package tier — see [Pricing](/pricing/packages).
 
 ## Integrations
 
-- Marketplace integrations — list your catalog on third-party marketplaces
-- ERP integrations
-- Shipping / carrier integrations
-- e-invoicing integration
-- CDN delivery
+- **Marketplace integrations** — sync catalog, stock and orders with major
+  international marketplaces from one panel
+- **ERP and accounting integrations** — connect major ERP and accounting systems
+- **Shipping / carrier integrations** — rates, labels and tracking
+- **e-invoicing / e-document integration**
+- **CDN delivery**
+
+For selling across borders, see [Cross-border and e-export](/features/cross-border).
 
 ## AI tools
 

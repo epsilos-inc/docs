@@ -6,7 +6,9 @@ sidebar:
 ---
 
 Epsilos **tamamen yönetilen bir hizmettir** (managed SaaS). Teknik tarafın tamamını
-Epsilos üstlenir; siz yalnızca işinizle ilgilenirsiniz.
+Epsilos üstlenir; siz yalnızca işinizle ilgilenirsiniz. 
+
+Destek ve eğitim için Epsilos'a telefon ve destek sistemi üzerinden doğrudan ulaşılabilir. Müşteriler destek ve eğitimleri Google Meet gibi platformlar ile uzakmasaüstü bağlantısı / **ekran paylaşımı** yaparak alabilirler.
 
 ## Epsilos'un üstlendiği kısım
 
@@ -25,7 +27,7 @@ Tarayıcı tabanlı yönetim paneli üzerinden:
 - Sayfalar ve içerik (görsel sürükle-bırak düzen tasarımcısı)
 - Blog yazıları, kategoriler, etiketler
 - Menüler ve navigasyon
-- Tema seçimi (geniş duyarlı tema kütüphanesi, anında geçiş)
+- Tema seçimi (geniş responsive tema kütüphanesi, anında geçiş)
 - Ayarlar: firma bilgisi, SMTP, ödeme yapılandırması, analytics anahtarları
 - Kullanıcılar ve roller
 

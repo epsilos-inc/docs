@@ -8,6 +8,10 @@ sidebar:
 Epsilos is a **fully managed service** (managed SaaS). Epsilos handles the entire
 technical side; you focus on your business.
 
+For support and training you can reach Epsilos directly by phone and through the
+support system. Support and training sessions can also be delivered over remote
+desktop / **screen sharing** on platforms such as Google Meet.
+
 ## What Epsilos handles
 
 - Servers and hosting
